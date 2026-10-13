@@ -1,0 +1,2556 @@
+{
+  "captures": [
+    "res://artifacts/hud54_text_skills_ready_960.png",
+    "res://artifacts/hud54_text_skills_cooldown_960.png",
+    "res://artifacts/hud54_text_skills_hungry_960.png",
+    "res://artifacts/hud54_text_skills_mana_960.png",
+    "res://artifacts/hud54_text_skills_dead_960.png",
+    "res://artifacts/hud54_text_quantity_1_960.png",
+    "res://artifacts/hud54_text_quantity_9_960.png",
+    "res://artifacts/hud54_text_quantity_99_960.png",
+    "res://artifacts/hud54_text_scroll_bottom_960.png",
+    "res://artifacts/hud54_text_gu_long_id_960.png",
+    "res://artifacts/hud54_text_skills_ready_1280.png",
+    "res://artifacts/hud54_text_skills_cooldown_1280.png",
+    "res://artifacts/hud54_text_skills_hungry_1280.png",
+    "res://artifacts/hud54_text_skills_mana_1280.png",
+    "res://artifacts/hud54_text_skills_dead_1280.png",
+    "res://artifacts/hud54_text_quantity_1_1280.png",
+    "res://artifacts/hud54_text_quantity_9_1280.png",
+    "res://artifacts/hud54_text_quantity_99_1280.png",
+    "res://artifacts/hud54_text_scroll_bottom_1280.png",
+    "res://artifacts/hud54_text_gu_long_id_1280.png"
+  ],
+  "checks": [
+    {
+      "name": "960 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_ready_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_ready_960",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_cooldown_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_cooldown_960",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_hungry_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_hungry_960",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_mana_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_mana_960",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "960 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_dead_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_dead_960",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_1_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_1_960",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_9_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_9_960",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_99_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_99_960",
+      "passed": true
+    },
+    {
+      "name": "scroll_bottom_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot scroll_bottom_960",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Long reserve ID truncates with the full value in its tooltip",
+      "passed": true
+    },
+    {
+      "name": "gu_long_id_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot gu_long_id_960",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey ready: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_ready_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_ready_1280",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey cooldown: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_cooldown_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_cooldown_1280",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey hungry: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_hungry_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_hungry_1280",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey mana: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_mana_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_mana_1280",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill name dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 skill status dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "1280 hotkey dead: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Name and status have separate lines",
+      "passed": true
+    },
+    {
+      "name": "skills_dead_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot skills_dead_1280",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 1: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_1_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_1_1280",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 9: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_9_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_9_1280",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Equipped item key: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Selected material shows its updated quantity",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Stack 99: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Quantity clears selected underline",
+      "passed": true
+    },
+    {
+      "name": "quantity_99_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quantity_99_1280",
+      "passed": true
+    },
+    {
+      "name": "scroll_bottom_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot scroll_bottom_1280",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: text box stays inside the ink safe area",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: accents and descenders fit vertically",
+      "passed": true
+    },
+    {
+      "name": "Gu list caption: full text fits or has explicit overflow handling",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Gu list text lines stay separate",
+      "passed": true
+    },
+    {
+      "name": "Long reserve ID truncates with the full value in its tooltip",
+      "passed": true
+    },
+    {
+      "name": "gu_long_id_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot gu_long_id_1280",
+      "passed": true
+    }
+  ],
+  "failed": 0,
+  "passed": 632
+}

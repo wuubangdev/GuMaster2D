@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Cổ sư · Concept chi tiết 02</title>
+  <style>
+    :root{color-scheme:light;--paper:#eee6d6;--ink:#29251f;--jade:#55634f;--line:#c4b79f}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.6 system-ui,sans-serif}main{max-width:1560px;margin:auto;padding:30px clamp(16px,3vw,46px) 44px}header{display:flex;justify-content:space-between;align-items:start;gap:24px;border-bottom:1px solid var(--line);padding-bottom:20px}h1{font:500 clamp(28px,3vw,42px)/1.15 Georgia,serif;margin:8px 0 10px}p{margin:8px 0}.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:11px;color:var(--jade)}.status{border:1px solid var(--line);padding:7px 12px;white-space:nowrap;font-size:12px}nav{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 12px}button{font:inherit;border:1px solid var(--line);background:transparent;color:var(--ink);padding:9px 14px;cursor:pointer}button[aria-pressed=true]{background:var(--jade);color:#fff;border-color:var(--jade)}button:focus-visible,a:focus-visible{outline:3px solid #a27b43;outline-offset:4px}.toolbar{display:flex;gap:18px;align-items:center;justify-content:space-between;margin:12px 0}h2{margin:0;font:500 23px Georgia,serif}a{color:var(--jade);text-underline-offset:3px}.stage{overflow:auto;border:1px solid var(--line);background:#e6dcc6;margin:0}.stage img{width:100%;height:auto;display:block}.stage.zoom img{width:auto;max-width:none}.note{display:grid;grid-template-columns:1.2fr 1fr;gap:36px;margin-top:18px}.note p{margin:0}.hint{color:#6d6254;font-size:13px}footer{border-top:1px solid var(--line);margin-top:28px;padding-top:18px;display:flex;flex-wrap:wrap;gap:16px;font-size:13px}@media(max-width:700px){header{display:block}.status{display:inline-block;margin-top:12px}.note{grid-template-columns:1fr;gap:12px}.toolbar{align-items:start}h2{font-size:20px}.toolbar button{font-size:12px;padding:7px 10px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+<main>
+  <header><div><div class="eyebrow">GuMaster2D · Bảng duyệt mỹ thuật · 11.10.2026</div><h1>Cổ sư, nét mực và giấy.</h1><p>Nhân vật cũ phát triển chi tiết hơn · Nam/nữ · 8 hướng · Đổi trang phục · 4 Cổ</p></div><div class="status">Concept 02 · Chờ duyệt</div></header>
+  <nav aria-label="Chọn bảng hình">
+    <button type="button" data-board="0" aria-pressed="true">01 · Nhân vật</button>
+    <button type="button" data-board="1" aria-pressed="false">02 · Thay đồ</button>
+    <button type="button" data-board="2" aria-pressed="false">03 · Đi / chạy</button>
+    <button type="button" data-board="3" aria-pressed="false">04 · Hành động</button>
+    <button type="button" data-board="4" aria-pressed="false">05 · Kỹ năng</button>
+  </nav>
+  <div class="toolbar"><h2 id="heading">Nam và nữ, 8 hướng nhìn</h2><button type="button" id="zoom" aria-pressed="false">Xem kích thước gốc</button></div>
+  <figure class="stage" id="stage"><img id="board" src="character-directions-02.png" alt="Bảng nhân vật nam và nữ, mỗi người có tám hướng nhìn"></figure>
+  <div class="note" aria-live="polite"><p id="description">Mặt trước, chéo, ngang và sau được vẽ riêng. Hai body dùng chung tên khớp và timeline, có hình mặt/thân/fit riêng.</p><p class="hint" id="caution">Hướng chéo còn gần frontal; cần khóa rõ góc đầu/thân khi vẽ source. Đây là concept, chưa là head asset đúng pivot.</p></div>
+  <p class="hint" style="margin-top:20px">Chuỗi hình là nghiên cứu keyframe, chưa phải animation chơi được. Nhân vật trong game, nón/giày, save và icon kỹ năng chưa được thay bằng bộ này.</p>
+  <footer><a href="README.md">Tổng quan và nguồn tạo ảnh</a><a href="FSD_MODULAR_CHARACTER.md">FSD nhân vật</a><a href="ANIMATION_AND_SKILLS.md">Animation và kỹ năng</a><a href="WBS.md">WBS nhóm 4 người</a><a href="ACCEPTANCE.md">Cổng kiểm chứng</a><a id="original" href="character-directions-02.png" target="_blank" rel="noopener">Mở ảnh riêng</a></footer>
+</main>
+<script>
+const boards=[
+ {file:'character-directions-02.png',title:'Nam và nữ, 8 hướng nhìn',alt:'Bảng nam và nữ, tám hướng mỗi body',description:'Mặt trước, chéo, ngang và sau được vẽ riêng. Hai body dùng chung tên khớp và timeline, có hình mặt/thân/fit riêng.',caution:'Hướng chéo còn gần frontal; cần khóa rõ góc đầu/thân khi vẽ source. Đây là concept, chưa là head asset đúng pivot.'},
+ {file:'wardrobe-modular-02-refined.png',title:'Đổi áo, tóc, nón, giày và vũ khí',alt:'Sáu bộ trang phục nam nữ và sơ đồ tách lớp',description:'3 áo × 3 vũ khí × 2 tóc × 2 giày × 3 nón × 2 body = 216 tổ hợp thiết kế. Mỗi món gắn vào socket; nón có mask che tóc.',caution:'Bảng tách lớp là thiết kế, chưa có alpha/pivot nguồn. Cần kiểm fit ở mọi hướng và tư thế trong Godot.'},
+ {file:'locomotion-keyframes-02-refined.png',title:'Đi bộ và chạy: tiếp đất, tải trọng, bước qua',alt:'Hai chuỗi tám pose đi bộ và chạy nhìn ngang',description:'Walk có chân chống, run có flight ngắn. Tay đổi vai theo chân, đầu ổn định, tóc và tà áo theo sau thân.',caution:'Đây là pose study. Foot contact, phase theo quãng đường và độ mượt phải được kiểm bằng animation thật sau duyệt.'},
+ {file:'combat-keyframes-02.png',title:'Kiếm, thương, thi triển và phòng thủ',alt:'Bốn chuỗi hành động mỗi chuỗi bốn keyframe',description:'Ready → windup → release → recover. Kiếm một tay, thương hai grip trên cùng cán, cast và guard có silhouette riêng.',caution:'Hình không chứng minh grip solver hoặc contact timing. Cần khớp tay/vũ khí bằng pose data và authority event trong game.'},
+ {file:'skills-ink-02.png',title:'4 Cổ: icon và hiệu ứng cùng nét mực',alt:'Nguyệt Quang, Bạch Ngọc, Bạch Hạc, Băng Tằm theo bốn pha',description:'Nguyệt nhận, vòng ngọc rỗng, lông hạc và tằm băng. Màu lì ngọc/ngà/đá xanh; nét khô thay quầng neon.',caution:'Icon cần giản lược ở 32–64 px. VFX phải nối mana/cooldown/contact/status hiện hành, không thay cân bằng bằng art.'}
+];
+const image=document.getElementById('board'),stage=document.getElementById('stage'),zoom=document.getElementById('zoom');
+for(const button of document.querySelectorAll('[data-board]'))button.addEventListener('click',()=>{const entry=boards[Number(button.dataset.board)];image.src=entry.file;image.alt=entry.alt;document.getElementById('heading').textContent=entry.title;document.getElementById('description').textContent=entry.description;document.getElementById('caution').textContent=entry.caution;document.getElementById('original').href=entry.file;for(const other of document.querySelectorAll('[data-board]'))other.setAttribute('aria-pressed',String(other===button));stage.classList.remove('zoom');zoom.setAttribute('aria-pressed','false');zoom.textContent='Xem kích thước gốc';stage.scrollLeft=0;});
+zoom.addEventListener('click',()=>{const active=stage.classList.toggle('zoom');zoom.setAttribute('aria-pressed',String(active));zoom.textContent=active?'Thu vừa màn hình':'Xem kích thước gốc';});
+</script>
+</body>
+</html>

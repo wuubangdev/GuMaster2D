@@ -1,0 +1,1053 @@
+{
+  "parts": {
+    "boot_0": {
+      "alpha_sha256": "19e5d5f0b14b4bf3f95dbfb3eb10bb1d5f8fb5330afe0278ca73c586e955e03a",
+      "rgba_sha256": "e7271073ee423875add23f97baaca3b2ae360410080c91293e0f726eb6ce3810",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_1": {
+      "alpha_sha256": "6295da585c4c70463a3431886675fe6e0e7946ad75abb00967636c9bf07f0fdd",
+      "rgba_sha256": "b85a63514c8704c96d89f3d2da003f963635a93f43aaadb0f2b5305d541086ce",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_2": {
+      "alpha_sha256": "68722879fa3c7b3a9944febb0129d5c235388fa816bba4b6b38443151c9b5118",
+      "rgba_sha256": "468355a3b8c67ce518f4807ee564d78496f5a71d98e5aa2dabef7cb0403985c5",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_3": {
+      "alpha_sha256": "36611fdfbc17af25ee4234a793f59405b0ef7b18ccb6a2549acbc6215eb9a1bd",
+      "rgba_sha256": "b950dfac5ed315a5e25b4bfea4f870249ce4336e27468e2dc591a1d8045afc3e",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_4": {
+      "alpha_sha256": "1633a763f37c1b59535bc9b9c4645fd6d4b44970184aa74cce68cea760e6520a",
+      "rgba_sha256": "5b11da2dbfba9cc2edbc4b2a52c7986993013b66526f7bf67eb0782cb7795acf",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_5": {
+      "alpha_sha256": "cc100cf1bcfb19b68a0feb85ec59af571171d33bc6a362e34b017def8e7b9c5c",
+      "rgba_sha256": "39285ddec01433d3b2c6b006c82495bf356becada053ecdec8ed4af24e0fc82b",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_6": {
+      "alpha_sha256": "68506148e4e9b3f8086805ada56e707caa51fef2ee095d6a2884b28e7dff4809",
+      "rgba_sha256": "e09a9c258dfa09341bec479b9f9ef47fced7c8c194c6722e8fef96e738829a6b",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "boot_7": {
+      "alpha_sha256": "3d64c12b07f7b6bdd76799846493b5eaa06cbecbb97b2ceaedeccdc2ecdcad3a",
+      "rgba_sha256": "0d4b60809f1be0ceb43d4a84202ee372270ad1e86e6cec01ab7bfc372d09453f",
+      "size": [
+        96,
+        96
+      ]
+    },
+    "hand_female": {
+      "alpha_sha256": "76d57494c8fc49dafe49394254a938fb9c287054d60930e5ab6449f41da83422",
+      "rgba_sha256": "49bdfef1989de2826c45463cc9657a61fabc477e6c1a88fd6e1278674a8c8260",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "hand_male": {
+      "alpha_sha256": "76d57494c8fc49dafe49394254a938fb9c287054d60930e5ab6449f41da83422",
+      "rgba_sha256": "49bdfef1989de2826c45463cc9657a61fabc477e6c1a88fd6e1278674a8c8260",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "head_female_ponytail_0": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "79eb8a4355c40e6f3146c6718b45a478c7001fb7175b4b2c297319250970c8d5",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_0_closed": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "9d1f03671748c625dceb17813795246793fc18f16ad00dfbcec8fd2909dcd382",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_1": {
+      "alpha_sha256": "aff65504fa6a946ea213107b999dc304ea30a31471f9f4bfde1f5c544b7840dd",
+      "rgba_sha256": "dcd2894015221c94a53576760aa05a9b13610f2abe225f37f7652f62c3939bc5",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_1_closed": {
+      "alpha_sha256": "aff65504fa6a946ea213107b999dc304ea30a31471f9f4bfde1f5c544b7840dd",
+      "rgba_sha256": "6ecdb0c47d5e7a1a4fce54266f7f2efcae0b840946b1ee693f14471f0d99cc2e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_2": {
+      "alpha_sha256": "82d0f100193ba43c43882101a97253cce1bbdfa0e0811598324160715dc5ccac",
+      "rgba_sha256": "6bc8d7dc838b03836e206a043d5d304084a1f564959e749ef3b2c0a9f29a0607",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_2_closed": {
+      "alpha_sha256": "82d0f100193ba43c43882101a97253cce1bbdfa0e0811598324160715dc5ccac",
+      "rgba_sha256": "1bc09272b0a4cfc180ed07588996f1e23e90a61ebf15ac672161211a598e0e36",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_3": {
+      "alpha_sha256": "999fb200c7e54312e68815f14c0793db6d0bd60032be15736babc5a3e4decca1",
+      "rgba_sha256": "23a2be9493d82961fd403c18077e9ce06f8d398d5dd5011bd9d4bfd2e6867176",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_4": {
+      "alpha_sha256": "ba62c9d47b4e36acdafcc749e25cf5a9790f3a947e89f092b410318b2fe7438b",
+      "rgba_sha256": "404e84456888b5f19fe1378cf79437414b90bf37f543373513ff9fe434158c7f",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_5": {
+      "alpha_sha256": "54ea8d0382fb9ecd32e1523b46b67d491804b20db229cb356a2737dbb111e07a",
+      "rgba_sha256": "cb3251b0d933e6209e29f22b35c3b6ceeb86155acc263963755138e3f4ea0c6e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_6": {
+      "alpha_sha256": "bc75855e449073de658c669a29253639076c7397c22d2da45d35fdde4c5f8b9a",
+      "rgba_sha256": "1a918e890ef3dab73e959f883e2f987bdc781a5398aa8b05dcb9727f773d4963",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_6_closed": {
+      "alpha_sha256": "bc75855e449073de658c669a29253639076c7397c22d2da45d35fdde4c5f8b9a",
+      "rgba_sha256": "cd186441b7f0f0fb106e94963d87664e65cd60d1026cf3419b70454ab7ed5ac0",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_7": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "007fd876e44a17f30a581fd861b2d31f7e0e68017db1d911b6b6b368df4154d4",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_ponytail_7_closed": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "f85b5f9b62d0870bbcb3fca1643a9603ff3cb3d1b25937b4a65f579d6740a109",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_0": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "bd2d7f47a283b5905f1d4e0190a64e5535fbde60a62b08c463e187a837318a50",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_0_closed": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "36dde25212f4da2f560b66083287dfe6cdb3969525cb1e4275824a09ed7d5132",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_1": {
+      "alpha_sha256": "7984f66772d331cbf10b24fdebdfdf0f4bcbbb801345a6c855fa40d5e28f9805",
+      "rgba_sha256": "dcc02392f911f2968a9ff538ac00cf4881e7bfe199c49f00fadc933fe07654ff",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_1_closed": {
+      "alpha_sha256": "7984f66772d331cbf10b24fdebdfdf0f4bcbbb801345a6c855fa40d5e28f9805",
+      "rgba_sha256": "6fb5d53143ee18133ca724c1ae33d8b72eeed876e7d57b7660acf843340e43a1",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_2": {
+      "alpha_sha256": "5e5899eff2282d6f4ffd29c7b7d9423f4d7c6ed369eff16b87bb8d6d6f0d7a51",
+      "rgba_sha256": "bbc3a72c3e3b0cd1fedffd48fcca6fcf67c12b8ee7e85b38220a77ea2e10bfe9",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_2_closed": {
+      "alpha_sha256": "5e5899eff2282d6f4ffd29c7b7d9423f4d7c6ed369eff16b87bb8d6d6f0d7a51",
+      "rgba_sha256": "0781a5992fcae8818431fd1aadd3f9df6e9bab257642b983ddc377de479e8b0e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_3": {
+      "alpha_sha256": "1ff24913a11f16f31048737750fd23e6b1981eaf8758b2d333eda4ef0cb5e04c",
+      "rgba_sha256": "08d19e8d745c8fe083e79ca7b0dee580d78956580053f148415c6267a8a55762",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_4": {
+      "alpha_sha256": "7c3cd40ccfc45b8d510cb76aa6663835b34bbb75a64fb97e4ec43dfa6b80a0d6",
+      "rgba_sha256": "9cd42786037ec430aa758ff345305f8dce7b5ae033ddecf9bd0c6e6ac10ac4e9",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_5": {
+      "alpha_sha256": "8adf2cc9fd0f7b875c745aa118c3eae73ddb19dc36fa0a86b0dedca977bfdd6a",
+      "rgba_sha256": "b8689b8561040735faa9feaeb074590b9085b996afe8e462a543ca884d908ef2",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_6": {
+      "alpha_sha256": "8f1aaa99b829a6e2e8d63779b6cded2091d0d6309710089d906f462563193ae9",
+      "rgba_sha256": "fa51508bdec928f600b2f1d925329d089bff09a0e2b3661e18bbaf79baf1c9be",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_6_closed": {
+      "alpha_sha256": "8f1aaa99b829a6e2e8d63779b6cded2091d0d6309710089d906f462563193ae9",
+      "rgba_sha256": "adcbb3716fb099bd20ee63a431ad75652da8af30cb74344b3fddfb8b9372c9d6",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_7": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "9ec843f254d978a839437c74a4616b7ec29e043efb949940197507e9a9a70e3f",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_female_topknot_7_closed": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "61e680f870847d2e5ab2623ef7dc84a964c97f2b6efc82025679457f7642a4ec",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_0": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "0aeaa1145510c26450fbde1aaf080e1c0f01dab71f54d5796f1d16764df503cc",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_0_closed": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "9d1f03671748c625dceb17813795246793fc18f16ad00dfbcec8fd2909dcd382",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_1": {
+      "alpha_sha256": "aff65504fa6a946ea213107b999dc304ea30a31471f9f4bfde1f5c544b7840dd",
+      "rgba_sha256": "876dbb3c855826be09e25d0bf79e4de988654e4cf6f096221c0163a3f8dae329",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_1_closed": {
+      "alpha_sha256": "aff65504fa6a946ea213107b999dc304ea30a31471f9f4bfde1f5c544b7840dd",
+      "rgba_sha256": "6ecdb0c47d5e7a1a4fce54266f7f2efcae0b840946b1ee693f14471f0d99cc2e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_2": {
+      "alpha_sha256": "82d0f100193ba43c43882101a97253cce1bbdfa0e0811598324160715dc5ccac",
+      "rgba_sha256": "fc990ccca30f95fa578adf1cd584895c1a33eddf0824c4813d367c6452fea7a8",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_2_closed": {
+      "alpha_sha256": "82d0f100193ba43c43882101a97253cce1bbdfa0e0811598324160715dc5ccac",
+      "rgba_sha256": "1bc09272b0a4cfc180ed07588996f1e23e90a61ebf15ac672161211a598e0e36",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_3": {
+      "alpha_sha256": "999fb200c7e54312e68815f14c0793db6d0bd60032be15736babc5a3e4decca1",
+      "rgba_sha256": "23a2be9493d82961fd403c18077e9ce06f8d398d5dd5011bd9d4bfd2e6867176",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_4": {
+      "alpha_sha256": "ba62c9d47b4e36acdafcc749e25cf5a9790f3a947e89f092b410318b2fe7438b",
+      "rgba_sha256": "404e84456888b5f19fe1378cf79437414b90bf37f543373513ff9fe434158c7f",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_5": {
+      "alpha_sha256": "54ea8d0382fb9ecd32e1523b46b67d491804b20db229cb356a2737dbb111e07a",
+      "rgba_sha256": "cb3251b0d933e6209e29f22b35c3b6ceeb86155acc263963755138e3f4ea0c6e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_6": {
+      "alpha_sha256": "bc75855e449073de658c669a29253639076c7397c22d2da45d35fdde4c5f8b9a",
+      "rgba_sha256": "21f759f4378feca8eb6e1e23dcc5e9f90b986bc18a65dcd19810f5512a1f54d1",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_6_closed": {
+      "alpha_sha256": "bc75855e449073de658c669a29253639076c7397c22d2da45d35fdde4c5f8b9a",
+      "rgba_sha256": "cd186441b7f0f0fb106e94963d87664e65cd60d1026cf3419b70454ab7ed5ac0",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_7": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "bde6840ee809f9ffd9180a417f91f371f3dca28f904b49839f0b55ddf3322b30",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_ponytail_7_closed": {
+      "alpha_sha256": "372428d7b6a8d8b389f6b01e1ea1383fbf73d1d9f3c7929d5b2fdced8edf1b9c",
+      "rgba_sha256": "f85b5f9b62d0870bbcb3fca1643a9603ff3cb3d1b25937b4a65f579d6740a109",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_0": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "68c72af5b567ba71efcfc538c87cd0e981b05bb5031418d59ce612c8a58f3c63",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_0_closed": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "36dde25212f4da2f560b66083287dfe6cdb3969525cb1e4275824a09ed7d5132",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_1": {
+      "alpha_sha256": "7984f66772d331cbf10b24fdebdfdf0f4bcbbb801345a6c855fa40d5e28f9805",
+      "rgba_sha256": "083571c5e22d436b34ffdf9fcd53e31ca2e980325d907d996d0cfd5193a2c3a1",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_1_closed": {
+      "alpha_sha256": "7984f66772d331cbf10b24fdebdfdf0f4bcbbb801345a6c855fa40d5e28f9805",
+      "rgba_sha256": "6fb5d53143ee18133ca724c1ae33d8b72eeed876e7d57b7660acf843340e43a1",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_2": {
+      "alpha_sha256": "5e5899eff2282d6f4ffd29c7b7d9423f4d7c6ed369eff16b87bb8d6d6f0d7a51",
+      "rgba_sha256": "5a331a0662e7f7d332bda8bbe5cefb0e66a920bbb62478b712e7347e32bb4020",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_2_closed": {
+      "alpha_sha256": "5e5899eff2282d6f4ffd29c7b7d9423f4d7c6ed369eff16b87bb8d6d6f0d7a51",
+      "rgba_sha256": "0781a5992fcae8818431fd1aadd3f9df6e9bab257642b983ddc377de479e8b0e",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_3": {
+      "alpha_sha256": "1ff24913a11f16f31048737750fd23e6b1981eaf8758b2d333eda4ef0cb5e04c",
+      "rgba_sha256": "08d19e8d745c8fe083e79ca7b0dee580d78956580053f148415c6267a8a55762",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_4": {
+      "alpha_sha256": "7c3cd40ccfc45b8d510cb76aa6663835b34bbb75a64fb97e4ec43dfa6b80a0d6",
+      "rgba_sha256": "9cd42786037ec430aa758ff345305f8dce7b5ae033ddecf9bd0c6e6ac10ac4e9",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_5": {
+      "alpha_sha256": "8adf2cc9fd0f7b875c745aa118c3eae73ddb19dc36fa0a86b0dedca977bfdd6a",
+      "rgba_sha256": "b8689b8561040735faa9feaeb074590b9085b996afe8e462a543ca884d908ef2",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_6": {
+      "alpha_sha256": "8f1aaa99b829a6e2e8d63779b6cded2091d0d6309710089d906f462563193ae9",
+      "rgba_sha256": "0840c250eb69ad4a4ce0e571354928773dc767f31f296495fd3878524b3c2a14",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_6_closed": {
+      "alpha_sha256": "8f1aaa99b829a6e2e8d63779b6cded2091d0d6309710089d906f462563193ae9",
+      "rgba_sha256": "adcbb3716fb099bd20ee63a431ad75652da8af30cb74344b3fddfb8b9372c9d6",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_7": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "0deb551c066f185e9f0a67b7a749524378f3cc73358a2b21fd8454b254bee5aa",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "head_male_topknot_7_closed": {
+      "alpha_sha256": "12224e7c1190fd69323eb33f70363bbfb07e5c2df8a145ce6d4f7b81d9e64ca2",
+      "rgba_sha256": "61e680f870847d2e5ab2623ef7dc84a964c97f2b6efc82025679457f7642a4ec",
+      "size": [
+        320,
+        352
+      ]
+    },
+    "sleeve_crimson": {
+      "alpha_sha256": "cf7fb7f4c1ebefefc8dbaa2b2f78fe6bcad6dda2f179aae007da0605db9e365e",
+      "rgba_sha256": "55ac22181a8ef0e74ea62ea1155a4174fcf4bd654092c14caee2db3dd842ead6",
+      "size": [
+        96,
+        152
+      ]
+    },
+    "sleeve_ivory": {
+      "alpha_sha256": "cf7fb7f4c1ebefefc8dbaa2b2f78fe6bcad6dda2f179aae007da0605db9e365e",
+      "rgba_sha256": "646d7bd0e65ec5513f2b8490981e36779cbc92a1b089b5ad89c0e1d5e0d78d38",
+      "size": [
+        96,
+        152
+      ]
+    },
+    "sleeve_jade": {
+      "alpha_sha256": "cf7fb7f4c1ebefefc8dbaa2b2f78fe6bcad6dda2f179aae007da0605db9e365e",
+      "rgba_sha256": "edbbe38d4a93c41ec6dd5436a5510983dc2283f4a3de871736d35cc44bd5cca5",
+      "size": [
+        96,
+        152
+      ]
+    },
+    "tail_ponytail_0": {
+      "alpha_sha256": "617b94656237da70969eaf0b401729450bd8187824c8aa5b2788a98c57789a99",
+      "rgba_sha256": "6eefb792efd611a953b88b90793de6a0a28a31e8f074dda16f2ac0fdd4b5c642",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_1": {
+      "alpha_sha256": "a07345f49e97e0a5b44d05903bf17d845709d115515d96074106df4dbc8e8050",
+      "rgba_sha256": "8452f3f3237bee651c4cbdc3c1c7dc700aca88cd5a0935573511173b3fd8ecd4",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_2": {
+      "alpha_sha256": "a07345f49e97e0a5b44d05903bf17d845709d115515d96074106df4dbc8e8050",
+      "rgba_sha256": "8452f3f3237bee651c4cbdc3c1c7dc700aca88cd5a0935573511173b3fd8ecd4",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_3": {
+      "alpha_sha256": "a07345f49e97e0a5b44d05903bf17d845709d115515d96074106df4dbc8e8050",
+      "rgba_sha256": "8452f3f3237bee651c4cbdc3c1c7dc700aca88cd5a0935573511173b3fd8ecd4",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_4": {
+      "alpha_sha256": "617b94656237da70969eaf0b401729450bd8187824c8aa5b2788a98c57789a99",
+      "rgba_sha256": "6eefb792efd611a953b88b90793de6a0a28a31e8f074dda16f2ac0fdd4b5c642",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_5": {
+      "alpha_sha256": "617b94656237da70969eaf0b401729450bd8187824c8aa5b2788a98c57789a99",
+      "rgba_sha256": "6eefb792efd611a953b88b90793de6a0a28a31e8f074dda16f2ac0fdd4b5c642",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_6": {
+      "alpha_sha256": "617b94656237da70969eaf0b401729450bd8187824c8aa5b2788a98c57789a99",
+      "rgba_sha256": "6eefb792efd611a953b88b90793de6a0a28a31e8f074dda16f2ac0fdd4b5c642",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_ponytail_7": {
+      "alpha_sha256": "617b94656237da70969eaf0b401729450bd8187824c8aa5b2788a98c57789a99",
+      "rgba_sha256": "6eefb792efd611a953b88b90793de6a0a28a31e8f074dda16f2ac0fdd4b5c642",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_0": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_1": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_2": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_3": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_4": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_5": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_6": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "tail_topknot_7": {
+      "alpha_sha256": "f20c3e25fa7e633eed7a7175f67933edd948ed5df1d782da472d6ff01d6f56a5",
+      "rgba_sha256": "ad4430d4a99911cce2107237fdca96092e2d2a2365f24c813e9861a6bc3c60ac",
+      "size": [
+        160,
+        248
+      ]
+    },
+    "torso_female_crimson_0": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "ea15d31e28f2f0bdb1d53ffb76362b24e2b15517f1f662a273f36dc61203d5f4",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_1": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "af93cc00040a15d06db7c4eae8d88ef8151ca6fea93d517268fde4dbc57f672c",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "c8b588689663f0397aaf915080cd7bd7adcfc8134ce91b8456e7e862b5884c4b",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_3": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "17dea23aa8ab4df21d0b4e2cebe9b9f0b1bb019e7ac00e369aa4e31c79684e11",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_4": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "ca1949ffda5e5b81dfc3c91962a0750c845974323ee64ebdac29aa37792067e3",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_5": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "ca1949ffda5e5b81dfc3c91962a0750c845974323ee64ebdac29aa37792067e3",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "aa0ba69fe81825ab6fbb5523262577ca225b8df8ed7818cbba4151b5f63c696e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_crimson_7": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "ea15d31e28f2f0bdb1d53ffb76362b24e2b15517f1f662a273f36dc61203d5f4",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_0": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "aaaa15bfdbc20c9970f4e112218ce14bc75ec4d84efafe4828e19b2da7faf96e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_1": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "4a0fff175d7c5c5b961db3beee8ce6c8837ad7803256035bcc301ff99be9bd4a",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "5cf16673bafb317c663d83c0957a3d8726ef7be974435d15be2b29cd829cb449",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_3": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "41a76d92d5a465231f408a50701f9ffc4159d3243f07c792eb0fad5a5ff15bb8",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_4": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "479ce375f404c3baa4a5ef5a48091e166ccd0bc012a655fd16ce4ee3353facd2",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_5": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "479ce375f404c3baa4a5ef5a48091e166ccd0bc012a655fd16ce4ee3353facd2",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "35ebb2d335356ee75cdc2d38f8f5e9c6ed99e8c2c3a6cb8136298314d7c71c86",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_ivory_7": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "aaaa15bfdbc20c9970f4e112218ce14bc75ec4d84efafe4828e19b2da7faf96e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_0": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "6800cd14545bee9d01912a4bb827e21e999d56b25d47b4fd0cd6ae7bbc472e55",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_1": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "3313f516d8cc17d8d52cd3b28e9ccccd8205e003c88824992defb033e75dd1c3",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "7f51924f5b803b9a1c57daefea0e8a2bb6429480245d9f7642fbff9c48f2c58d",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_3": {
+      "alpha_sha256": "df5f97027d844e7c7b442cfa6dbbf8b601c2ac69ca41e82d69ca1ff5a35bc72d",
+      "rgba_sha256": "e84529e728a679b3eb653d1ccbb5507bdca2002230d6bb3ed08353de92e49286",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_4": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "152939723cd8d5985e512c8aefa7ee93296baf4b2f448ebbf848958eba3dde03",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_5": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "152939723cd8d5985e512c8aefa7ee93296baf4b2f448ebbf848958eba3dde03",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "1197622ad5417ce9ba1eb83df518f86bda0c7ed1ebd84cc45d1d8389c40f5565",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_female_jade_7": {
+      "alpha_sha256": "9ce76b3b2ef3b7e22667be288f698287ec4f3e2340bb85a2fe36c61ce7a608bc",
+      "rgba_sha256": "6800cd14545bee9d01912a4bb827e21e999d56b25d47b4fd0cd6ae7bbc472e55",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_0": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "44f81b48d799bf0e10ca66f01dca3632890baaaec42d8c563e83f03be3c075a2",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_1": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "35063c7b9e11c028be96ca86c53a1a026589b4861bce6aa9527a634133f62867",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "c8b588689663f0397aaf915080cd7bd7adcfc8134ce91b8456e7e862b5884c4b",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_3": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "02c4314decfd9eb6c9c92cc75f5deb12e78cca722d64d250610e62f60f48f41e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_4": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "1263b64af4e0a9227c79107fba6615275872e1b59c70d7b4d165b538f6ba0bcd",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_5": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "1263b64af4e0a9227c79107fba6615275872e1b59c70d7b4d165b538f6ba0bcd",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "aa0ba69fe81825ab6fbb5523262577ca225b8df8ed7818cbba4151b5f63c696e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_crimson_7": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "44f81b48d799bf0e10ca66f01dca3632890baaaec42d8c563e83f03be3c075a2",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_0": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "badf02f9ad5b008c984d4cd0f61671a9343e84055ad48abd33f6e570eebaf196",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_1": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "288edf8fb9ee4b5426eac79712cf106d55e4b41658d1fe9f6208eb6a1f033a0e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "5cf16673bafb317c663d83c0957a3d8726ef7be974435d15be2b29cd829cb449",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_3": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "1fd1813f4b1281b08b8585e30044d8c8ece3cd0fcebedd67d31b73eef6bbf8ad",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_4": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "a6dc063b5435bf4922120a45a1c2b0e302b10c8d7848918489cd600c7c42818d",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_5": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "a6dc063b5435bf4922120a45a1c2b0e302b10c8d7848918489cd600c7c42818d",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "35ebb2d335356ee75cdc2d38f8f5e9c6ed99e8c2c3a6cb8136298314d7c71c86",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_ivory_7": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "badf02f9ad5b008c984d4cd0f61671a9343e84055ad48abd33f6e570eebaf196",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_0": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "09e52211fc6931d3f10cfd610d3a22b1e66399d98a1894b449ad3676369e4c80",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_1": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "8ae9581117c412101e27b54842e0fe24a11976a04b41a538f799b8bbfeb3f54e",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_2": {
+      "alpha_sha256": "5808fd0e948f2d6b570570e3956d4bf47bdfd741697fecfde3b30bccfcdc39a6",
+      "rgba_sha256": "7f51924f5b803b9a1c57daefea0e8a2bb6429480245d9f7642fbff9c48f2c58d",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_3": {
+      "alpha_sha256": "4c34bba0e277176b9dac80fd2ead480d0706ec6ab813ae03f948dd499ea8ebb9",
+      "rgba_sha256": "be1ce19fd17507444600565c9855482c9dd6d5d23ab2c42a4e19fe4fe049e604",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_4": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "1e9637abb08d2b62a95eff5521d0320cf4e2f8e6a543715a53e008c125b6da03",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_5": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "1e9637abb08d2b62a95eff5521d0320cf4e2f8e6a543715a53e008c125b6da03",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_6": {
+      "alpha_sha256": "e4cb6557242156f59f8d8de448675acb01c46a65bcf269f8ec853e0932172cc3",
+      "rgba_sha256": "1197622ad5417ce9ba1eb83df518f86bda0c7ed1ebd84cc45d1d8389c40f5565",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "torso_male_jade_7": {
+      "alpha_sha256": "acf6838327d04f881805674f9ab5f68871cb0dd70b8e53751195c41c4db5d264",
+      "rgba_sha256": "09e52211fc6931d3f10cfd610d3a22b1e66399d98a1894b449ad3676369e4c80",
+      "size": [
+        288,
+        240
+      ]
+    },
+    "weapon_spear": {
+      "alpha_sha256": "7e7887250bf7324830310e338391d8cd7ad71e0f100fe6d186d00b05969d765a",
+      "rgba_sha256": "900a83241476b09a9a124a72932e3de563491a6a219d9cf908a06a6b17b4bc52",
+      "size": [
+        160,
+        432
+      ]
+    },
+    "weapon_sword": {
+      "alpha_sha256": "7379ccb9da5a17c8f88c67ff62a8ea09c88cc52cce4e670aa0642cf86ab7c699",
+      "rgba_sha256": "2855cd015aaefde9ca91c39292db0f34d8760db6c142992b15c3cc627c9fe057",
+      "size": [
+        160,
+        432
+      ]
+    }
+  },
+  "source": "Original 0.15 generator restored before material refinement"
+}

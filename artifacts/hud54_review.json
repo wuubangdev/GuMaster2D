@@ -1,0 +1,344 @@
+{
+  "captures": [
+    "res://artifacts/hud54_hud_960.png",
+    "res://artifacts/hud54_bag_960.png",
+    "res://artifacts/hud54_paired_960.png",
+    "res://artifacts/hud54_craft_960.png",
+    "res://artifacts/hud54_gu_960.png",
+    "res://artifacts/hud54_settings_960.png",
+    "res://artifacts/hud54_studio_960.png",
+    "res://artifacts/hud54_quests_960.png",
+    "res://artifacts/hud54_hud_1280.png",
+    "res://artifacts/hud54_bag_1280.png",
+    "res://artifacts/hud54_paired_1280.png",
+    "res://artifacts/hud54_craft_1280.png",
+    "res://artifacts/hud54_gu_1280.png",
+    "res://artifacts/hud54_settings_1280.png",
+    "res://artifacts/hud54_studio_1280.png",
+    "res://artifacts/hud54_quests_1280.png",
+    "res://artifacts/hud54_hud_1920.png",
+    "res://artifacts/hud54_bag_1920.png",
+    "res://artifacts/hud54_paired_1920.png",
+    "res://artifacts/hud54_craft_1920.png",
+    "res://artifacts/hud54_gu_1920.png",
+    "res://artifacts/hud54_settings_1920.png",
+    "res://artifacts/hud54_studio_1920.png",
+    "res://artifacts/hud54_quests_1920.png"
+  ],
+  "checks": [
+    {
+      "name": "HUD panels separated at 960",
+      "passed": true
+    },
+    {
+      "name": "Hint and hotbar separated at 960",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 960",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 960",
+      "passed": true
+    },
+    {
+      "name": "hud_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot hud_960",
+      "passed": true
+    },
+    {
+      "name": "Tab opens bag at 960",
+      "passed": true
+    },
+    {
+      "name": "Bag clears skill dock at 960",
+      "passed": true
+    },
+    {
+      "name": "bag_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot bag_960",
+      "passed": true
+    },
+    {
+      "name": "Both side windows fit at 960",
+      "passed": true
+    },
+    {
+      "name": "paired_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot paired_960",
+      "passed": true
+    },
+    {
+      "name": "Craft toggle opens at 960",
+      "passed": true
+    },
+    {
+      "name": "craft_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot craft_960",
+      "passed": true
+    },
+    {
+      "name": "gu_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot gu_960",
+      "passed": true
+    },
+    {
+      "name": "Settings fit at 960",
+      "passed": true
+    },
+    {
+      "name": "settings_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot settings_960",
+      "passed": true
+    },
+    {
+      "name": "Character studio fits at 960",
+      "passed": true
+    },
+    {
+      "name": "studio_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot studio_960",
+      "passed": true
+    },
+    {
+      "name": "quests_960: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quests_960",
+      "passed": true
+    },
+    {
+      "name": "HUD panels separated at 1280",
+      "passed": true
+    },
+    {
+      "name": "Hint and hotbar separated at 1280",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 1280",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 1280",
+      "passed": true
+    },
+    {
+      "name": "hud_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot hud_1280",
+      "passed": true
+    },
+    {
+      "name": "Tab opens bag at 1280",
+      "passed": true
+    },
+    {
+      "name": "Bag clears skill dock at 1280",
+      "passed": true
+    },
+    {
+      "name": "bag_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot bag_1280",
+      "passed": true
+    },
+    {
+      "name": "Both side windows fit at 1280",
+      "passed": true
+    },
+    {
+      "name": "paired_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot paired_1280",
+      "passed": true
+    },
+    {
+      "name": "Craft toggle opens at 1280",
+      "passed": true
+    },
+    {
+      "name": "craft_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot craft_1280",
+      "passed": true
+    },
+    {
+      "name": "gu_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot gu_1280",
+      "passed": true
+    },
+    {
+      "name": "Settings fit at 1280",
+      "passed": true
+    },
+    {
+      "name": "settings_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot settings_1280",
+      "passed": true
+    },
+    {
+      "name": "Character studio fits at 1280",
+      "passed": true
+    },
+    {
+      "name": "studio_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot studio_1280",
+      "passed": true
+    },
+    {
+      "name": "quests_1280: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quests_1280",
+      "passed": true
+    },
+    {
+      "name": "HUD panels separated at 1920",
+      "passed": true
+    },
+    {
+      "name": "Hint and hotbar separated at 1920",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 1920",
+      "passed": true
+    },
+    {
+      "name": "Vital text clears border at 1920",
+      "passed": true
+    },
+    {
+      "name": "hud_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot hud_1920",
+      "passed": true
+    },
+    {
+      "name": "Tab opens bag at 1920",
+      "passed": true
+    },
+    {
+      "name": "Bag clears skill dock at 1920",
+      "passed": true
+    },
+    {
+      "name": "bag_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot bag_1920",
+      "passed": true
+    },
+    {
+      "name": "Both side windows fit at 1920",
+      "passed": true
+    },
+    {
+      "name": "paired_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot paired_1920",
+      "passed": true
+    },
+    {
+      "name": "Craft toggle opens at 1920",
+      "passed": true
+    },
+    {
+      "name": "craft_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot craft_1920",
+      "passed": true
+    },
+    {
+      "name": "gu_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot gu_1920",
+      "passed": true
+    },
+    {
+      "name": "Settings fit at 1920",
+      "passed": true
+    },
+    {
+      "name": "settings_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot settings_1920",
+      "passed": true
+    },
+    {
+      "name": "Character studio fits at 1920",
+      "passed": true
+    },
+    {
+      "name": "studio_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot studio_1920",
+      "passed": true
+    },
+    {
+      "name": "quests_1920: text has safe insets; ",
+      "passed": true
+    },
+    {
+      "name": "Screenshot quests_1920",
+      "passed": true
+    }
+  ],
+  "failed": 0,
+  "passed": 78
+}

@@ -1,0 +1,476 @@
+{
+  "assets": [
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "layers": 20,
+      "path": "res://assets/characters/runtime/male_jade_topknot_sword.res",
+      "provenance": "Artist GLB: res://assets/characters/artist_roundtrip_male_sword.glb SHA256=7f88a724cdda5ee49e13c86e437a1aa45f847bb79701022256878d61d741ab90",
+      "rig_bones": 22,
+      "sha256": "eb28f853a7bfc2c35177d0a48a03e87c36c95e6d9cd37afd636761720a8e442d",
+      "triangles": 31448
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_jade_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "8c12211e32ebe00cab48f8126dfbb420a9796845163f3da47f954a47e4b11b91",
+      "triangles": 31172.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_jade_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "2cc69ecb8a1bdbdc41e29a39beb50528d324397f9f81233cace19d0800df10fc",
+      "triangles": 31000.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/male_jade_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "a15eafc14e723c96a250eb71aad002fd4516f25d1f6b1d2c5d737d0314420573",
+      "triangles": 32428.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_jade_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "53ff97a6244b5a36891251d6a5a37284850878c876abf317734e3feac06037ff",
+      "triangles": 32152.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_jade_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "f177d54f2228597b5747cf4bc5b12631b39475529eebf6006e6cd154dd0daaab",
+      "triangles": 31980.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/male_crimson_topknot_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "97b5c7ce742e0fb1a8faff139852cfc0813b47f21c8430eaab80de3a75d01f3c",
+      "triangles": 31568.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_crimson_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "d223ae7ca80f8ee830358f6ef5406d9a717d62d2a90d5abd02e3365ac17f9021",
+      "triangles": 31292.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_crimson_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "0fb94a05bd2510f50e727b18bccd04b85c0a8f85d75c2eecfe36aba5b48176a0",
+      "triangles": 31120.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/male_crimson_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "d832a1e1a8217e5972cb86ba02dc0204040bb6872235b396edc5f4c0f4d50aca",
+      "triangles": 32548.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_crimson_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "cf114840cbe4f4dc406d44e406027c5c45d3a09e70dbdffc4752de1a846fe9c0",
+      "triangles": 32272.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_crimson_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "d86346dca00c1c1a566ff8446dd8b35b351363fc9c1b2eed00ffd3abb90e9de8",
+      "triangles": 32100.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/male_ivory_topknot_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "133c33240372fcbd33ee9834719a72d345bea4c03e56f94d45edff7ef4d7ebeb",
+      "triangles": 30464.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_ivory_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "953b41ca3d85dc7268c5786ee7858c82b8ef1f073c4af1e2f5643a50b7837f3a",
+      "triangles": 30188.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_ivory_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "5c5149c337906645498faf119a820e3d542cd0d740adb3ca7f4aad1a410210b9",
+      "triangles": 30016.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/male_ivory_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "75686bfba5e2085e68d6375d3b16ff3e5a559374e26d2ab58bb4736e47fa15e5",
+      "triangles": 31444.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/male_ivory_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "78d973b4342fca83a7f757c38eff0c87846dd8d0952791a8e12a9c7d58517ac0",
+      "triangles": 31168.0
+    },
+    {
+      "appearance": {
+        "body": "male",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/male_ivory_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "5963666ce7722c6f2fe04a314bff6532eddd17e89b870a7ecc9be175439251bc",
+      "triangles": 30996.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_jade_topknot_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "519bf35ed6acb373b20a6ab98a384d5e6f6a2e5e215ee23bab44189057d2e002",
+      "triangles": 31448.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_jade_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "dc01d33fd213a5f2d2d5a6b8a6ea7f7270cf07a71dbee24edff6cb8266316b40",
+      "triangles": 31172.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_jade_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "7687794e85f3dbd9a2cb99b98c126f1bc3d11605fb060b3f45561086e02dc1a0",
+      "triangles": 31000.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_jade_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "8224b0ac7496694f33f618fa922785e26686ec268305aaf3f9879f5d97f56850",
+      "triangles": 32428.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_jade_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "dcb95a1a565db943767e8943cdc8ff2a609218a6184ce17b04ae904354ff1aa1",
+      "triangles": 32152.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_jade_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "28d3f536d56e7362684ad25241567f521decfe77e9ee0d101a3ba46bd9e6d2a4",
+      "triangles": 31980.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_crimson_topknot_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "65f8b64799bc81b19e3fefafde3b6ab8eefc8ade6f84ec745df2abbbd26a9d5a",
+      "triangles": 31568.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_crimson_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "1737ba0f99e7187008b8eae0f57779a2fd6c2d0b9c74a7b4cd163ec0c18cc9e5",
+      "triangles": 31292.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_crimson_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "117e9767528e7c485dff550641f81f2209a4b2a75d86d60097d12cbd82d98659",
+      "triangles": 31120.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_crimson_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "fad020695798efaf4ba023bb0d457feed91d01f23496f1e17919d9a6f5f61a6a",
+      "triangles": 32548.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_crimson_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "a078cf9d601606966961f3e90c57bfced510ed8b7e67435d30cb399c1d8a0e60",
+      "triangles": 32272.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_crimson_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "717c22d1f951e126724039149f79f82e08b04b31f5ff026b8f131b18e7793f3a",
+      "triangles": 32100.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_ivory_topknot_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "4c5ef827d24410b8015ec874bf4e44929c17f506104d57885b414ebff770f40f",
+      "triangles": 30464.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_ivory_topknot_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "11a1c36f730a0c3f3127d860b0f5d091bf44807578395152df3050c223586302",
+      "triangles": 30188.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_ivory_topknot_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "e6b78702c88885c073c03f4b01998cad6317e5423e87f22f3bcdb591f58a136c",
+      "triangles": 30016.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "sword"
+      },
+      "layers": 18.0,
+      "path": "res://assets/characters/runtime/female_ivory_ponytail_sword.res",
+      "rig_bones": 22.0,
+      "sha256": "a339fd2a875e005c19c44afe2e279eb409fe0e2a7fbd1833b8e409d1bce27eee",
+      "triangles": 31444.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "spear"
+      },
+      "layers": 17.0,
+      "path": "res://assets/characters/runtime/female_ivory_ponytail_spear.res",
+      "rig_bones": 22.0,
+      "sha256": "27bcbddf3305716ff0edd147c54884b0b263d3d6a6c6d48c0a43cacdd179fc49",
+      "triangles": 31168.0
+    },
+    {
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "layers": 16.0,
+      "path": "res://assets/characters/runtime/female_ivory_ponytail_unarmed.res",
+      "rig_bones": 22.0,
+      "sha256": "83aafa5ca1eb0e9df98993fe4450df6e9f3da0fb4b31aef7f9d1edec7be19c82",
+      "triangles": 30996.0
+    }
+  ],
+  "generator": "tools/bake_character_runtime.gd",
+  "revision": "art10",
+  "rig_contract": "GuHumanoid/1"
+}

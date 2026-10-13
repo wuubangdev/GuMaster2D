@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "scope": "Planning artifact integrity only; 79 formal alpha tests have NOT run. Godot prototype evidence is separate.",
+  "sheets": 25,
+  "functional_requirements": 55,
+  "nfr": 12,
+  "wbs_packages": 72,
+  "test_rows": 79,
+  "gu": 20,
+  "recipes": 10,
+  "quests": 10,
+  "formulas_with_baseline_cache": 3520,
+  "effort_base_pd": 199.0,
+  "effort_with_reserve_pd": 238.8,
+  "capacity_pd": 270.0,
+  "capacity_by_role_pd": 67.5,
+  "effort_by_role_pd": {
+    "GD": 47.0,
+    "CL": 54,
+    "SV": 54,
+    "AR": 44.0
+  },
+  "overloaded_sprint_roles": 0,
+  "illustrative_start": "2026-10-12",
+  "illustrative_end": "2027-06-18",
+  "word_paragraphs": 100,
+  "word_tables": 13,
+  "artifacts": [
+    "GuMaster2D_FSD_WBS_Plan.xlsx",
+    "GuMaster2D_Project_Plan.docx",
+    "GuMaster2D_Project_Plan.md",
+    "GuMaster2D_FSD.md",
+    "GuMaster2D_WBS.md"
+  ]
+}

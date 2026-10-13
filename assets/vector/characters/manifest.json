@@ -1,0 +1,1406 @@
+{
+  "revision": "ink20-character",
+  "style": "Warm storybook ink; layered eight-way character equipment and stationary hatching",
+  "source": "Original Bezier SVG cutout art; no external raster inputs",
+  "units_per_figure": 60,
+  "import_texels_per_unit": 8,
+  "directions": 8,
+  "cosmetic_combinations": 216,
+  "parts": {
+    "boot_0": {
+      "path": "res://assets/vector/characters/boot_0.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_0": {
+      "path": "res://assets/vector/characters/boot_leather_0.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_0": {
+      "path": "res://assets/vector/characters/hat_bamboo_0.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_0": {
+      "path": "res://assets/vector/characters/hat_sect_0.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_0": {
+      "path": "res://assets/vector/characters/head_male_topknot_0.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_topknot_0_closed": {
+      "path": "res://assets/vector/characters/head_male_topknot_0_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_0": {
+      "path": "res://assets/vector/characters/head_male_ponytail_0.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_0_closed": {
+      "path": "res://assets/vector/characters/head_male_ponytail_0_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_0": {
+      "path": "res://assets/vector/characters/torso_male_jade_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_0": {
+      "path": "res://assets/vector/characters/torso_male_crimson_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_0": {
+      "path": "res://assets/vector/characters/torso_male_ivory_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_0": {
+      "path": "res://assets/vector/characters/head_female_topknot_0.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_topknot_0_closed": {
+      "path": "res://assets/vector/characters/head_female_topknot_0_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_0": {
+      "path": "res://assets/vector/characters/head_female_ponytail_0.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_0_closed": {
+      "path": "res://assets/vector/characters/head_female_ponytail_0_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_0": {
+      "path": "res://assets/vector/characters/torso_female_jade_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_0": {
+      "path": "res://assets/vector/characters/torso_female_crimson_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_0": {
+      "path": "res://assets/vector/characters/torso_female_ivory_0.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_0": {
+      "path": "res://assets/vector/characters/tail_topknot_0.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_0": {
+      "path": "res://assets/vector/characters/tail_ponytail_0.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_1": {
+      "path": "res://assets/vector/characters/boot_1.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_1": {
+      "path": "res://assets/vector/characters/boot_leather_1.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_1": {
+      "path": "res://assets/vector/characters/hat_bamboo_1.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_1": {
+      "path": "res://assets/vector/characters/hat_sect_1.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_1": {
+      "path": "res://assets/vector/characters/head_male_topknot_1.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_topknot_1_closed": {
+      "path": "res://assets/vector/characters/head_male_topknot_1_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_1": {
+      "path": "res://assets/vector/characters/head_male_ponytail_1.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_1_closed": {
+      "path": "res://assets/vector/characters/head_male_ponytail_1_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_1": {
+      "path": "res://assets/vector/characters/torso_male_jade_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_1": {
+      "path": "res://assets/vector/characters/torso_male_crimson_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_1": {
+      "path": "res://assets/vector/characters/torso_male_ivory_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_1": {
+      "path": "res://assets/vector/characters/head_female_topknot_1.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_topknot_1_closed": {
+      "path": "res://assets/vector/characters/head_female_topknot_1_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_1": {
+      "path": "res://assets/vector/characters/head_female_ponytail_1.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_1_closed": {
+      "path": "res://assets/vector/characters/head_female_ponytail_1_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_1": {
+      "path": "res://assets/vector/characters/torso_female_jade_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_1": {
+      "path": "res://assets/vector/characters/torso_female_crimson_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_1": {
+      "path": "res://assets/vector/characters/torso_female_ivory_1.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_1": {
+      "path": "res://assets/vector/characters/tail_topknot_1.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_1": {
+      "path": "res://assets/vector/characters/tail_ponytail_1.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_2": {
+      "path": "res://assets/vector/characters/boot_2.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_2": {
+      "path": "res://assets/vector/characters/boot_leather_2.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_2": {
+      "path": "res://assets/vector/characters/hat_bamboo_2.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_2": {
+      "path": "res://assets/vector/characters/hat_sect_2.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_2": {
+      "path": "res://assets/vector/characters/head_male_topknot_2.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_topknot_2_closed": {
+      "path": "res://assets/vector/characters/head_male_topknot_2_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_2": {
+      "path": "res://assets/vector/characters/head_male_ponytail_2.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_2_closed": {
+      "path": "res://assets/vector/characters/head_male_ponytail_2_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_2": {
+      "path": "res://assets/vector/characters/torso_male_jade_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_2": {
+      "path": "res://assets/vector/characters/torso_male_crimson_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_2": {
+      "path": "res://assets/vector/characters/torso_male_ivory_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_2": {
+      "path": "res://assets/vector/characters/head_female_topknot_2.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_topknot_2_closed": {
+      "path": "res://assets/vector/characters/head_female_topknot_2_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_2": {
+      "path": "res://assets/vector/characters/head_female_ponytail_2.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_2_closed": {
+      "path": "res://assets/vector/characters/head_female_ponytail_2_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_2": {
+      "path": "res://assets/vector/characters/torso_female_jade_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_2": {
+      "path": "res://assets/vector/characters/torso_female_crimson_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_2": {
+      "path": "res://assets/vector/characters/torso_female_ivory_2.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_2": {
+      "path": "res://assets/vector/characters/tail_topknot_2.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_2": {
+      "path": "res://assets/vector/characters/tail_ponytail_2.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_3": {
+      "path": "res://assets/vector/characters/boot_3.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_3": {
+      "path": "res://assets/vector/characters/boot_leather_3.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_3": {
+      "path": "res://assets/vector/characters/hat_bamboo_3.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_3": {
+      "path": "res://assets/vector/characters/hat_sect_3.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_3": {
+      "path": "res://assets/vector/characters/head_male_topknot_3.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_3": {
+      "path": "res://assets/vector/characters/head_male_ponytail_3.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_3": {
+      "path": "res://assets/vector/characters/torso_male_jade_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_3": {
+      "path": "res://assets/vector/characters/torso_male_crimson_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_3": {
+      "path": "res://assets/vector/characters/torso_male_ivory_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_3": {
+      "path": "res://assets/vector/characters/head_female_topknot_3.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_3": {
+      "path": "res://assets/vector/characters/head_female_ponytail_3.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_3": {
+      "path": "res://assets/vector/characters/torso_female_jade_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_3": {
+      "path": "res://assets/vector/characters/torso_female_crimson_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_3": {
+      "path": "res://assets/vector/characters/torso_female_ivory_3.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_3": {
+      "path": "res://assets/vector/characters/tail_topknot_3.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_3": {
+      "path": "res://assets/vector/characters/tail_ponytail_3.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_4": {
+      "path": "res://assets/vector/characters/boot_4.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_4": {
+      "path": "res://assets/vector/characters/boot_leather_4.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_4": {
+      "path": "res://assets/vector/characters/hat_bamboo_4.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_4": {
+      "path": "res://assets/vector/characters/hat_sect_4.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_4": {
+      "path": "res://assets/vector/characters/head_male_topknot_4.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_4": {
+      "path": "res://assets/vector/characters/head_male_ponytail_4.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_4": {
+      "path": "res://assets/vector/characters/torso_male_jade_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_4": {
+      "path": "res://assets/vector/characters/torso_male_crimson_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_4": {
+      "path": "res://assets/vector/characters/torso_male_ivory_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_4": {
+      "path": "res://assets/vector/characters/head_female_topknot_4.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_4": {
+      "path": "res://assets/vector/characters/head_female_ponytail_4.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_4": {
+      "path": "res://assets/vector/characters/torso_female_jade_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_4": {
+      "path": "res://assets/vector/characters/torso_female_crimson_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_4": {
+      "path": "res://assets/vector/characters/torso_female_ivory_4.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_4": {
+      "path": "res://assets/vector/characters/tail_topknot_4.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_4": {
+      "path": "res://assets/vector/characters/tail_ponytail_4.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_5": {
+      "path": "res://assets/vector/characters/boot_5.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_5": {
+      "path": "res://assets/vector/characters/boot_leather_5.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_5": {
+      "path": "res://assets/vector/characters/hat_bamboo_5.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_5": {
+      "path": "res://assets/vector/characters/hat_sect_5.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_5": {
+      "path": "res://assets/vector/characters/head_male_topknot_5.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_5": {
+      "path": "res://assets/vector/characters/head_male_ponytail_5.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_5": {
+      "path": "res://assets/vector/characters/torso_male_jade_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_5": {
+      "path": "res://assets/vector/characters/torso_male_crimson_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_5": {
+      "path": "res://assets/vector/characters/torso_male_ivory_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_5": {
+      "path": "res://assets/vector/characters/head_female_topknot_5.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_5": {
+      "path": "res://assets/vector/characters/head_female_ponytail_5.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_5": {
+      "path": "res://assets/vector/characters/torso_female_jade_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_5": {
+      "path": "res://assets/vector/characters/torso_female_crimson_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_5": {
+      "path": "res://assets/vector/characters/torso_female_ivory_5.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_5": {
+      "path": "res://assets/vector/characters/tail_topknot_5.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_5": {
+      "path": "res://assets/vector/characters/tail_ponytail_5.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_6": {
+      "path": "res://assets/vector/characters/boot_6.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_6": {
+      "path": "res://assets/vector/characters/boot_leather_6.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_6": {
+      "path": "res://assets/vector/characters/hat_bamboo_6.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_6": {
+      "path": "res://assets/vector/characters/hat_sect_6.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_6": {
+      "path": "res://assets/vector/characters/head_male_topknot_6.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_topknot_6_closed": {
+      "path": "res://assets/vector/characters/head_male_topknot_6_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_6": {
+      "path": "res://assets/vector/characters/head_male_ponytail_6.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_6_closed": {
+      "path": "res://assets/vector/characters/head_male_ponytail_6_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_6": {
+      "path": "res://assets/vector/characters/torso_male_jade_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_6": {
+      "path": "res://assets/vector/characters/torso_male_crimson_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_6": {
+      "path": "res://assets/vector/characters/torso_male_ivory_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_6": {
+      "path": "res://assets/vector/characters/head_female_topknot_6.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_topknot_6_closed": {
+      "path": "res://assets/vector/characters/head_female_topknot_6_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_6": {
+      "path": "res://assets/vector/characters/head_female_ponytail_6.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_6_closed": {
+      "path": "res://assets/vector/characters/head_female_ponytail_6_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_6": {
+      "path": "res://assets/vector/characters/torso_female_jade_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_6": {
+      "path": "res://assets/vector/characters/torso_female_crimson_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_6": {
+      "path": "res://assets/vector/characters/torso_female_ivory_6.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_6": {
+      "path": "res://assets/vector/characters/tail_topknot_6.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_6": {
+      "path": "res://assets/vector/characters/tail_ponytail_6.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "boot_7": {
+      "path": "res://assets/vector/characters/boot_7.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "boot_leather_7": {
+      "path": "res://assets/vector/characters/boot_leather_7.svg",
+      "rect": [
+        -6,
+        -8,
+        12,
+        12
+      ]
+    },
+    "hat_bamboo_7": {
+      "path": "res://assets/vector/characters/hat_bamboo_7.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "hat_sect_7": {
+      "path": "res://assets/vector/characters/hat_sect_7.svg",
+      "rect": [
+        -22,
+        -29,
+        44,
+        32
+      ]
+    },
+    "head_male_topknot_7": {
+      "path": "res://assets/vector/characters/head_male_topknot_7.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_topknot_7_closed": {
+      "path": "res://assets/vector/characters/head_male_topknot_7_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_7": {
+      "path": "res://assets/vector/characters/head_male_ponytail_7.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_male_ponytail_7_closed": {
+      "path": "res://assets/vector/characters/head_male_ponytail_7_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_male_jade_7": {
+      "path": "res://assets/vector/characters/torso_male_jade_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_crimson_7": {
+      "path": "res://assets/vector/characters/torso_male_crimson_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_male_ivory_7": {
+      "path": "res://assets/vector/characters/torso_male_ivory_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "head_female_topknot_7": {
+      "path": "res://assets/vector/characters/head_female_topknot_7.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_topknot_7_closed": {
+      "path": "res://assets/vector/characters/head_female_topknot_7_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_7": {
+      "path": "res://assets/vector/characters/head_female_ponytail_7.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "head_female_ponytail_7_closed": {
+      "path": "res://assets/vector/characters/head_female_ponytail_7_closed.svg",
+      "rect": [
+        -20,
+        -24,
+        40,
+        44
+      ]
+    },
+    "torso_female_jade_7": {
+      "path": "res://assets/vector/characters/torso_female_jade_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_crimson_7": {
+      "path": "res://assets/vector/characters/torso_female_crimson_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "torso_female_ivory_7": {
+      "path": "res://assets/vector/characters/torso_female_ivory_7.svg",
+      "rect": [
+        -18,
+        -13,
+        36,
+        30
+      ]
+    },
+    "tail_topknot_7": {
+      "path": "res://assets/vector/characters/tail_topknot_7.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "tail_ponytail_7": {
+      "path": "res://assets/vector/characters/tail_ponytail_7.svg",
+      "rect": [
+        -10,
+        -3,
+        20,
+        31
+      ]
+    },
+    "sleeve_jade": {
+      "path": "res://assets/vector/characters/sleeve_jade.svg",
+      "rect": [
+        -6,
+        -3,
+        12,
+        19
+      ]
+    },
+    "sleeve_crimson": {
+      "path": "res://assets/vector/characters/sleeve_crimson.svg",
+      "rect": [
+        -6,
+        -3,
+        12,
+        19
+      ]
+    },
+    "sleeve_ivory": {
+      "path": "res://assets/vector/characters/sleeve_ivory.svg",
+      "rect": [
+        -6,
+        -3,
+        12,
+        19
+      ]
+    },
+    "hand_male": {
+      "path": "res://assets/vector/characters/hand_male.svg",
+      "rect": [
+        -4,
+        -4,
+        8,
+        8
+      ]
+    },
+    "hand_female": {
+      "path": "res://assets/vector/characters/hand_female.svg",
+      "rect": [
+        -4,
+        -4,
+        8,
+        8
+      ]
+    },
+    "weapon_sword": {
+      "path": "res://assets/vector/characters/weapon_sword.svg",
+      "rect": [
+        -10,
+        -44,
+        20,
+        54
+      ]
+    },
+    "weapon_spear": {
+      "path": "res://assets/vector/characters/weapon_spear.svg",
+      "rect": [
+        -10,
+        -44,
+        20,
+        54
+      ]
+    }
+  }
+}

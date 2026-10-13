@@ -1,0 +1,14 @@
+{
+  "runtime_revision": "ink19",
+  "runtime_file_count": 497,
+  "runtime_sha256_before": "1987c7290736d6ee82f35e80481010b5e7e060ee6b38303f27a7fc035ddb54fa",
+  "phase": "detailed-concept-only",
+  "approval": "pending",
+  "excluded_suffixes": [
+    ".import",
+    ".pyc"
+  ],
+  "excluded_folders": [
+    "__pycache__"
+  ]
+}

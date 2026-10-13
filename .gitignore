@@ -1,0 +1,38 @@
+# Local Godot imports, downloaded tools and exported builds.
+.godot/
+.tools/
+builds/
+*.zip
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Historical visual captures stay local. Keep the latest review and the
+# small before/after fixtures used by the committed review scripts.
+/docs/game-studio/evidence/
+/artifacts/*
+!/artifacts/.gitkeep
+!/artifacts/.gdignore
+!/artifacts/README.md
+!/artifacts/hud54_review.html
+!/artifacts/inventory51_review.html
+!/artifacts/hud54_*.png
+!/artifacts/hud54_*.json
+!/artifacts/gu52_*.png
+!/artifacts/hud54_baseline/
+/artifacts/hud54_baseline/*
+!/artifacts/hud54_baseline/inventory51_information_1280.png
+!/artifacts/hud54_baseline/inventory51_craft_960.png
+!/artifacts/hud54_baseline/gu52_upgrade_960.png
+!/artifacts/inventory51_baseline/
+/artifacts/inventory51_baseline/*
+!/artifacts/inventory51_baseline/inventory_1280.png
+!/artifacts/concept44_baseline/
+!/artifacts/concept46_baseline/
+!/artifacts/concept47_baseline/

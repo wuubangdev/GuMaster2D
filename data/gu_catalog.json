@@ -1,0 +1,9 @@
+{
+  "version": "godot-prototype-0.1",
+  "gu": [
+    {"id":"GU-01","name":"Nguyệt Quang","full_name":"Nguyệt Quang Cổ","kind":"moon","target":"enemy","power":35,"mana":8,"cooldown":2.0,"range":6.0,"food":"meat","color":"92e8d4","description":"Phóng nguyệt nhận vào mục tiêu. Cần mục tiêu trong tầm và không bị vật cản che."},
+    {"id":"GU-03","name":"Bạch Ngọc","full_name":"Bạch Ngọc Cổ","kind":"shield","target":"self","power":70,"mana":12,"cooldown":12.0,"range":0.0,"food":"stone","color":"e4d8aa","description":"Tạo khiên trong 5 giây. Khiên hấp thụ sát thương trước sinh lực, tối đa 40% sinh lực."},
+    {"id":"GU-05","name":"Bạch Hạc","full_name":"Bạch Hạc Cổ","kind":"dash","target":"ground","power":0,"mana":10,"cooldown":8.0,"range":3.0,"food":"fruit","color":"b8d4e2","description":"Lướt tối đa 3 ô về phía con trỏ. Không xuyên tường hoặc cắt góc vật cản."},
+    {"id":"GU-07","name":"Băng Tằm","full_name":"Băng Tằm Cổ","kind":"frost","target":"enemy","power":20,"mana":10,"cooldown":8.0,"range":5.0,"food":"nectar","color":"92cde6","description":"Gây sát thương và làm chậm mục tiêu 30% trong 3 giây. Tạo khoảng cách để bắt Cổ."}
+  ]
+}

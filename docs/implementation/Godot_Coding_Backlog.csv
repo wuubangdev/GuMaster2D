@@ -1,0 +1,12 @@
+﻿ID,Owner,Task,Base hours,Hours with reserve,Dependencies,Status,DoD
+G01,GD/QA,"Rà luật prototype, ghi 10 ca chơi, chốt tên vai trò và máy test",6.0,7.199999999999999,Bản hiện tại,Chưa bắt đầu,Issue có bước tái hiện; danh sách AC được chấp nhận
+G02,GD/QA,Chuẩn bị 5 Cổ đầu và test matrix G1,8.0,9.6,G01,Chưa bắt đầu,Data/cost/duration/range/food có đơn vị; 10 negative cases/primitive
+G03,CL,"Tách Bag/Hotbar/Pause thành scene, thêm input actions/remap cơ bản",8.0,9.6,Bản hiện tại,Chưa bắt đầu,UI chỉnh được trong editor; không rò click; test cũ vẫn đạt
+G04,CL,"CommandGateway, typed snapshot và remote actor interpolation",10.0,12.0,G07 phối hợp,Chưa bắt đầu,Client không sửa authority; hai avatar hiển thị đúng ID
+G05,CL,Spike Windows export + Web single-thread,6.0,7.199999999999999,G03,Chưa bắt đầu,Ghi version/templates/size/FPS; login chưa có được ghi rõ
+G06,SV,"Headless server shell, session test và command validation",8.0,9.6,Bản hiện tại,Chưa bắt đầu,Hai client LAN kết nối; server sở hữu movement/cooldown
+G07,SV,Protocol v1 + ENet spike; đánh giá WebSocket adapter,8.0,9.6,G06,Chưa bắt đầu,"Sequence, denial, snapshot; duplicate/out-of-order không làm warp"
+G08,SV,PostgreSQL/service adapter spike cho feed receipt,8.0,9.6,G06,Chưa bắt đầu,Cùng UUID 20 retry và hai kết nối chỉ consume 1; rollback khi lỗi
+G09,AR,"Style guide, chỉnh avatar/sói và silhouette trong scene hiện có",8.0,9.6,Bản hiện tại,Chưa bắt đầu,Nhân vật/mục tiêu đọc rõ ở 1366×768; asset manifest
+G10,AR,Bộ 5 icon và tín hiệu ready/cooldown/đói/không đủ mana,8.0,9.6,"G02, G03 phối hợp",Chưa bắt đầu,Skill trạng thái đọc được khi mute và không chỉ dựa màu
+G11,AR,"Chỉnh collision/đường đi, mép map và vùng trại",6.0,7.199999999999999,G01,Chưa bắt đầu,10 đường qua props không kẹt; ranh safe zone khớp mô phỏng

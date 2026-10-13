@@ -1,0 +1,176 @@
+{
+  "status": "design-only; pending user approval; NOT loaded by current runtime",
+  "contract": "GuInkCutout/2-proposal",
+  "facing_order": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+  ],
+  "options": {
+    "body": [
+      "male",
+      "female"
+    ],
+    "outfit": [
+      "jade",
+      "crimson",
+      "ivory"
+    ],
+    "weapon": [
+      "sword",
+      "spear",
+      "unarmed"
+    ],
+    "hair": [
+      "topknot",
+      "ponytail"
+    ],
+    "boots": [
+      "cloth",
+      "leather"
+    ],
+    "hat": [
+      "none",
+      "cloth_cap",
+      "straw_hat"
+    ]
+  },
+  "defaults": {
+    "body": "male",
+    "outfit": "jade",
+    "weapon": "sword",
+    "hair": "topknot",
+    "boots": "cloth",
+    "hat": "none"
+  },
+  "combination_count": 216,
+  "anchor_contract": {
+    "origin": "ground midpoint; presentation only",
+    "shared_names": [
+      "head",
+      "face",
+      "hat",
+      "hair_back",
+      "torso",
+      "hip",
+      "shoulder_L",
+      "elbow_L",
+      "wrist_L",
+      "shoulder_R",
+      "elbow_R",
+      "wrist_R",
+      "hip_L",
+      "knee_L",
+      "ankle_L",
+      "sole_L",
+      "hip_R",
+      "knee_R",
+      "ankle_R",
+      "sole_R",
+      "cloth_front",
+      "cloth_back",
+      "weapon_grip",
+      "support_grip",
+      "weapon_tip"
+    ],
+    "offsets": "authored per body and facing; coordinates pending pilot"
+  },
+  "slot_parts": {
+    "body": [
+      "head",
+      "face",
+      "ears",
+      "hands",
+      "trousers"
+    ],
+    "hair": [
+      "fringe",
+      "crown",
+      "tail"
+    ],
+    "outfit": [
+      "torso",
+      "collar",
+      "belt",
+      "upper_sleeve_L",
+      "fore_sleeve_L",
+      "upper_sleeve_R",
+      "fore_sleeve_R",
+      "front_flap",
+      "back_flap"
+    ],
+    "boots": [
+      "boot_L",
+      "boot_R"
+    ],
+    "hat": [
+      "back_rim",
+      "crown",
+      "front_rim"
+    ],
+    "weapon": [
+      "rigid_weapon",
+      "grip_hand_override"
+    ]
+  },
+  "hat_rules": {
+    "none": {
+      "hide_hair_crown": false,
+      "mask": "none"
+    },
+    "cloth_cap": {
+      "hide_hair_crown": true,
+      "mask": "authored per hair/body/facing; preserve fringe; ponytail at rear socket"
+    },
+    "straw_hat": {
+      "hide_hair_crown": true,
+      "mask": "authored crown/brim; preserve visible fringe and compatible rear tail"
+    }
+  },
+  "weapon_profiles": {
+    "sword": {
+      "main_hand": "R",
+      "support_grip": false,
+      "attack_nominal_seconds": 0.86
+    },
+    "spear": {
+      "main_hand": "R",
+      "support_grip": true,
+      "attack_nominal_seconds": 0.94
+    },
+    "unarmed": {
+      "main_hand": "none",
+      "support_grip": false,
+      "attack_nominal_seconds": 0.62
+    }
+  },
+  "actions": [
+    "idle",
+    "walk",
+    "run",
+    "attack",
+    "defend",
+    "cast",
+    "channel",
+    "dash",
+    "hit",
+    "death",
+    "respawn"
+  ],
+  "resources": "Part source paths, pivots, atlas bounds and masks must be authored after pilot approval. No fictional resource paths in this proposal.",
+  "appearance_gameplay_boundary": "Cosmetic state changes visuals only. Future equipment item visual IDs resolve into slots; equipment stats remain authority-owned.",
+  "save_migration": {
+    "source": "profile schema1 + four-field appearance",
+    "target": "new versioned profile envelope with six-field appearance",
+    "new_fields": {
+      "boots": "cloth",
+      "hat": "none"
+    },
+    "strategy": "validate temporary full state, preserve four existing IDs, commit once, atomic versioned save, retain original v1 for rollback"
+  }
+}

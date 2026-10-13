@@ -1,0 +1,247 @@
+{
+  "passed": 60,
+  "failed": 0,
+  "checks": [
+    {
+      "passed": true,
+      "name": "hud at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "hud at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "hud at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "bag at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "bag at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "bag at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "paired at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "paired at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "paired at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "craft at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "craft at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "craft at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "gu at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "gu at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "gu at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "settings at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "settings at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "settings at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "studio at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "studio at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "studio at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "quests at 960 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "quests at 1280 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "quests at 1920 loads its native screenshot"
+    },
+    {
+      "passed": true,
+      "name": "bag before image matches comparison resolution"
+    },
+    {
+      "passed": true,
+      "name": "craft before image matches comparison resolution"
+    },
+    {
+      "passed": true,
+      "name": "gu before image matches comparison resolution"
+    },
+    {
+      "passed": true,
+      "name": "Unavailable before images are disabled"
+    },
+    {
+      "passed": true,
+      "name": "100% zoom keeps native pixels in a scrollable viewport"
+    },
+    {
+      "passed": true,
+      "name": "Review fits a narrow browser window"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: stack99"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: stack99 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: stack99 1280"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: cooldown"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: cooldown 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: cooldown 1280"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: mana"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: mana 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: mana 1280"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: dead"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: dead 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: dead 1280"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: long_id"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: long_id 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: long_id 1280"
+    },
+    {
+      "passed": true,
+      "name": "Unsupported detail capture size disabled: scroll_bottom"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: scroll_bottom 960"
+    },
+    {
+      "passed": true,
+      "name": "Detailed state image loads: scroll_bottom 1280"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory URL identifies the current UI revision"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for information"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for food"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for craft"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for seal_recipe"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for context"
+    },
+    {
+      "passed": true,
+      "name": "Existing inventory page loads fresh captures for delete"
+    },
+    {
+      "passed": true,
+      "name": "Inventory craft revision 54 loads at 960"
+    },
+    {
+      "passed": true,
+      "name": "Inventory craft revision 54 loads at 1280"
+    },
+    {
+      "passed": true,
+      "name": "Inventory craft revision 54 loads at 1920"
+    },
+    {
+      "passed": true,
+      "name": "Updated inventory page fits a narrow browser"
+    },
+    {
+      "passed": true,
+      "name": "No script or resource errors"
+    }
+  ],
+  "errors": []
+}

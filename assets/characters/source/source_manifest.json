@@ -1,0 +1,1283 @@
+{
+  "generator": "tools/author_character_assets.py",
+  "blender": "4.5.14 LTS",
+  "origin": "Original Godot-generated characters; Blender organizational authoring sources",
+  "sources": [
+    {
+      "source_glb": "assets/characters/gu_male_sword.glb",
+      "source_sha256": "f47c9dc7840c367e2f2c17a57722e883016f5791404d4dcd830612115b0782c9",
+      "blend": "assets/characters/source/gu_male_sword.blend",
+      "blend_sha256": "b4f55124cc638c3304e95b6e6625ac876e4d50bc07f03539aa2547e0b8c03edc",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "metal_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "metal_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_jade_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Weapon_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Weapon_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved",
+        "Weapon_steel": "preserved",
+        "Weapon_steel_dark": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.0004690385883359925,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 20,
+      "vertices": 18560,
+      "triangles": 31448,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 5552,
+        "OUTFIT": 13224,
+        "WEAPON": 416
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2",
+        "Gu_steel2",
+        "Gu_steel_dark2"
+      ],
+      "uv_meshes": 20,
+      "surface_skin_uv_fingerprint": "d9295b5135c6d7a8df376248555a495d6cf8c1e61cc19cee496ac5aa5428980a"
+    },
+    {
+      "source_glb": "assets/characters/gu_male_spear.glb",
+      "source_sha256": "f0e040b594ef0ccf4f114a08ccf7df473298064132b6103a37a3985d74e58d4b",
+      "blend": "assets/characters/source/gu_male_spear.blend",
+      "blend_sha256": "630d0f87bf01c15cd7290e26193d38986b886207de877cad75f36baf2274133e",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "metal_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "metal_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_crimson_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Weapon_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Weapon_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved",
+        "Weapon_steel": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.0004961733261329964,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 19,
+      "vertices": 18694,
+      "triangles": 31292,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 5552,
+        "OUTFIT": 13352,
+        "WEAPON": 132
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2",
+        "Gu_steel2"
+      ],
+      "uv_meshes": 19,
+      "surface_skin_uv_fingerprint": "71cf2bad5b01e4844c2dbf5f05fafa114c6c73a1eba75575c7950b93cd09ff74"
+    },
+    {
+      "source_glb": "assets/characters/gu_male_unarmed.glb",
+      "source_sha256": "9bf428d7733933aed8b321749c4e9cff5f131516a38448006538608ac825dbb0",
+      "blend": "assets/characters/source/gu_male_unarmed.blend",
+      "blend_sha256": "529644c7bc2068e4eb3e9d8ea8686f83482fd35b1926fd15a00477a2b745f4f8",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_ivory_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.0,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 16,
+      "vertices": 17669,
+      "triangles": 30016,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 5552,
+        "OUTFIT": 12208
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2"
+      ],
+      "uv_meshes": 16,
+      "surface_skin_uv_fingerprint": "faf05f13592adeff28f924b8054d49749487b065127fcad69adb546aaba8e535"
+    },
+    {
+      "source_glb": "assets/characters/gu_female_sword.glb",
+      "source_sha256": "0c88099ce8c86aebc9c0850b55d613da70dc8db50a3d29456676f8f32191e400",
+      "blend": "assets/characters/source/gu_female_sword.blend",
+      "blend_sha256": "e30a09c46c9cd6c5da4292b831df5940230784f34aa4e4e3a4bd912e2bd93eb0",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "metal_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "metal_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_jade_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Weapon_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Weapon_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved",
+        "Weapon_steel": "preserved",
+        "Weapon_steel_dark": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.0004935915336517663,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 20,
+      "vertices": 19090,
+      "triangles": 32428,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 6552,
+        "OUTFIT": 13204,
+        "WEAPON": 416
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2",
+        "Gu_steel2",
+        "Gu_steel_dark2"
+      ],
+      "uv_meshes": 20,
+      "surface_skin_uv_fingerprint": "be265778f7562689e12d61d40c675ee6641253d2de4eab887c68dab5b849c0fc"
+    },
+    {
+      "source_glb": "assets/characters/gu_female_spear.glb",
+      "source_sha256": "284f3013a14291f2550190dbf74202499ef61abb5866983cfb6c2aeddc3d2ea4",
+      "blend": "assets/characters/source/gu_female_spear.blend",
+      "blend_sha256": "5b5aac8db8fcbf1dd6b23396bcc8ec9a9647f1f3d6704f11fd1cc0edabcd9229",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "metal_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "metal_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_crimson_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Weapon_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Weapon_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved",
+        "Weapon_steel": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.000589449652596169,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 19,
+      "vertices": 19224,
+      "triangles": 32272,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 6552,
+        "OUTFIT": 13332,
+        "WEAPON": 132
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2",
+        "Gu_steel2"
+      ],
+      "uv_meshes": 19,
+      "surface_skin_uv_fingerprint": "ccfe5746dc7ba665d7297f4f8d21810f2c515a97605e1dc3c98dbc9852b89ae3"
+    },
+    {
+      "source_glb": "assets/characters/gu_female_unarmed.glb",
+      "source_sha256": "865c0a47259385d4977c6fe8569f5408c3fef0f7dd4e82c7dcced2c06ff94538",
+      "blend": "assets/characters/source/gu_female_unarmed.blend",
+      "blend_sha256": "557349f5776fa513a93f4b416686e8403538ab16c2dc3c597aa12c026c864891",
+      "clip_names_in_glb": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "packed_images": [
+        {
+          "name": "hair_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "hair_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "hair_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "leather_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "leather_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_ivory_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        },
+        {
+          "name": "silk_normal",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal2",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal3",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "silk_normal4",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "Non-Color"
+        },
+        {
+          "name": "skin_albedo",
+          "size": [
+            512,
+            512
+          ],
+          "colorspace": "sRGB"
+        }
+      ],
+      "uv_authoring": {
+        "Outfit_cloth": "preserved",
+        "Outfit_cloth_dark": "preserved",
+        "Outfit_cloth_light": "preserved",
+        "Body_eye": "preserved",
+        "Body_eye_white": "preserved",
+        "Body_face_skin": "preserved",
+        "Outfit_gold": "preserved",
+        "Hair_hair": "preserved",
+        "Hair_hair_light": "preserved",
+        "Body_iris": "preserved",
+        "Outfit_ivory": "preserved",
+        "Outfit_jade": "preserved",
+        "Outfit_leather": "preserved",
+        "Body_lip": "preserved",
+        "Body_shadow_skin": "preserved",
+        "Body_skin": "preserved"
+      },
+      "geometry_preserved": true,
+      "reopen_validated": true,
+      "maximum_split_normal_direction_error": 0.0,
+      "bone_count": 22,
+      "bones": [
+        "Cape",
+        "CapeTip",
+        "Chest",
+        "Foot_L",
+        "Foot_R",
+        "Forearm_L",
+        "Forearm_R",
+        "Hair",
+        "Hand_L",
+        "Hand_R",
+        "Head",
+        "Hips",
+        "Neck",
+        "Shin_L",
+        "Shin_R",
+        "Shoulder_L",
+        "Shoulder_R",
+        "Spine",
+        "Thigh_L",
+        "Thigh_R",
+        "UpperArm_L",
+        "UpperArm_R"
+      ],
+      "mesh_objects": 16,
+      "vertices": 18199,
+      "triangles": 30996,
+      "category_triangles": {
+        "BODY": 12256,
+        "HAIR": 6552,
+        "OUTFIT": 12188
+      },
+      "actions": [
+        "RESET",
+        "attack",
+        "cast",
+        "channel",
+        "dash",
+        "death",
+        "defend",
+        "hit",
+        "idle",
+        "respawn",
+        "run",
+        "walk"
+      ],
+      "materials": [
+        "Gu_cloth2",
+        "Gu_cloth_dark2",
+        "Gu_cloth_light2",
+        "Gu_eye2",
+        "Gu_eye_white2",
+        "Gu_face_skin2",
+        "Gu_gold2",
+        "Gu_hair2",
+        "Gu_hair_light2",
+        "Gu_iris2",
+        "Gu_ivory2",
+        "Gu_jade2",
+        "Gu_leather2",
+        "Gu_lip2",
+        "Gu_shadow_skin2",
+        "Gu_skin2"
+      ],
+      "uv_meshes": 16,
+      "surface_skin_uv_fingerprint": "8fb8513ff29a5051d7ce635df796116cf3b099cff1954940cc92589d07931b3f"
+    }
+  ]
+}

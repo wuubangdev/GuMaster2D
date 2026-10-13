@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 100 100"><g stroke="#292e2b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<!-- Bang Tam: curled silkworm, crystal horn and silk filament. -->
+<path d="M19 66Q21 37 46 29L77 32Q68 39 70 48Q56 49 42 72L27 79Z" fill="#536f66"/>
+<path d="M25 72Q48 43 72 34M32 64L28 50M44 51L43 39M42 56L54 57" fill="none" stroke="#99b3a3" stroke-width="1.2"/>
+<path d="M68 46Q81 53 76 67Q71 82 52 79Q31 78 33 58Q34 44 46 40L55 43Q41 48 43 59Q45 69 55 68Q65 68 63 58Z" fill="#a4baba"/>
+<path d="M45 43Q48 47 48 51M37 51Q42 51 44 55M35 61Q40 60 44 62M39 70Q43 66 47 66M48 76Q49 72 52 68M60 77L59 69M70 72L65 66M75 63L67 61" fill="none" stroke="#526c68" stroke-width="1.7"/>
+<path d="M42 48Q47 44 51 45M39 56L40 60M46 71L49 72M59 73L63 71" fill="none" stroke="#e3e4d0" stroke-width="2.2"/>
+<path d="M58 53Q50 45 53 35Q58 24 69 27Q81 30 80 43Q78 55 67 57Z" fill="#d7ddd0"/>
+<path d="M59 30L59 18L67 25L72 16L73 29" fill="#9ebbc2"/>
+<path d="M63 42L66 44M74 39L76 40" stroke="#2c3d39" stroke-width="2.8"/>
+<path d="M65 50Q70 52 73 47" fill="none" stroke-width="1.2"/>
+<path d="M78 47Q89 51 83 61Q77 69 86 80" fill="none" stroke="#d7dfc8" stroke-width="1.3"/>
+<path d="M22 39L21 27L28 35L29 44Z" fill="#a3c5c3"/>
+<path d="M78 20L84 14L86 22L82 28Z" fill="#c2d7ce" stroke-width="1.3"/>
+</g></svg>

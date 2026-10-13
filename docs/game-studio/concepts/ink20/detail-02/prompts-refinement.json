@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "reason": "visual review: hair protrudes through straw hats; walk row repeats contact without clear passing poses",
+  "edits": [
+    {
+      "id": "wardrobe-modular-02-refined",
+      "refs": [
+        "/mnt/d/freelance/gumaster2d/docs/game-studio/concepts/ink20/detail-02/wardrobe-modular-02.png"
+      ],
+      "prompt": "Use case: precise-object-edit. This is the local modular wardrobe concept board, edit target image 1. Preserve the entire image, layout, all six character faces, bodies, outfits, weapons, lower exploded-parts diagrams, typography and warm ink/paper style.\nChange ONLY the hat fit on the two ivory characters in the TOP RIGHT: their hair topknot currently protrudes through/above the straw conical hat. Remove every visible hair knot or tuft sticking above the solid straw hat on these two characters. Draw a complete continuous straw conical hat crown with proper radial bamboo lines. Their hair crown and bun must be completely hidden INSIDE the hat, while visible forehead fringe and the female long ponytail underneath/behind the brim remain unchanged. Seat the hat naturally on the head, preserve visible eyes and face. No hair visible above the hat. Keep the two hats the same size and location. Do not change any other detail, do not add characters, do not crop."
+    },
+    {
+      "id": "locomotion-keyframes-02-refined",
+      "refs": [
+        "/mnt/d/freelance/gumaster2d/docs/game-studio/concepts/ink20/detail-02/locomotion-keyframes-02.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Image 1 is the locomotion concept board edit target.\nKeep the same two-row eight-column layout, title, WALK/RUN captions, 01-08 labels, paper, exact male jade character identity, right-facing true profile head with one eye, robe design, scale and the ENTIRE RUN ROW unchanged.\nChange ONLY the WALK ROW legs, arms and the skirt overlap required by these limbs. It currently repeats an extended contact in 01/02/03 and fails to show the passing pose. Make the eight walking figures show a clear COMPLETE two-step cycle at eight different phases, measured in screen positions, with foot pairs distinguishable by near/front limb and darker far/back limb.\nWALK01 near leg extended FORWARD to the RIGHT with heel contacting the baseline, far leg behind to LEFT pushing off toe.\nWALK02 near planted boot directly below/slightly in front of hip, near knee slightly flexed to LOAD weight, far rear heel rising.\nWALK03 near boot planted below hip, far leg bends and passes next to planted near knee, far boot visibly suspended under hip, NO leg still extended forward.\nWALK04 near leg planted slightly BEHIND hip, far boot swings visibly FORWARD to RIGHT with bent knee and raised toe.\nWALK05 far leg now extended FORWARD to RIGHT heel contact, near leg behind to LEFT pushing toe.\nWALK06 far planted boot below/slightly forward of hip loading weight, near rear heel lifts.\nWALK07 far boot planted under hip, near leg bends and passes with near boot suspended underneath hip, no leg extended forward.\nWALK08 far planted leg behind hip, near boot swings FORWARD to RIGHT bent knee raised toe, preparing the WALK01 contact.\nArms counterbalance opposite legs, relaxed elbows, visibly swap forward/back roles between phase01 and05. Walk always at least one foot on baseline, feet do not jump. Do not just repeat the same forward straight leg in adjacent frames. Preserve head size and eye placement across every pose, no new face. Keep grounded walking distinct from the existing airborne running. This remains a concept pose study, not an actual animation asset."
+    }
+  ]
+}

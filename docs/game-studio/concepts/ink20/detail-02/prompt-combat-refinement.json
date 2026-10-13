@@ -1,0 +1,9 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "reason": "visual review: support hand does not grip spear shaft in release pose",
+  "id": "combat-keyframes-02-refined",
+  "prompt": "Use case: precise-object-edit. Image 1 is the original four-row combat KEYFRAME concept board edit target.\nPreserve the whole board: all text, paper, ink style, first SWORD row, third CAST row, fourth GUARD row, and all other characters, face/head, costumes, pose scale, weapons and layout.\nChange ONLY the SPEAR row (second row), RELEASE column (third column) woman's REAR ARM AND HAND. It currently has one hand near the spear's front but her rear hand is held back at hip instead of gripping the spear. She must hold and thrust a spear with TWO HANDS.\nKeep her existing front hand attached to the horizontal shaft near the point. Bend and lift her rear elbow/forearm so the REAR HAND unmistakably WRAPS AROUND THE SHAFT about one-third of the shaft length behind the front hand, at approximately lower chest height. Show five plausible fingers curling around the wood; no fist floating beside hip. The spear's shaft is one straight rigid piece passing through BOTH hand grips. Shoulder, elbow and wrist form a believable articulated arm rather than a contorted curve. A small section of far forearm may be occluded by body but both grips must be visibly identifiable on the shaft. Preserve her extended thrust pose, feet, face, ponytail, jade robe and full visible spear. Do not shorten the shaft, change the blade, change other cells, add extra hands or fingers, or crop.",
+  "refs": [
+    "/mnt/d/freelance/gumaster2d/docs/game-studio/concepts/ink20/detail-02/combat-keyframes-02.png"
+  ]
+}

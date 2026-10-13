@@ -1,0 +1,12 @@
+{
+  "status": "documentation example only; not a current runtime profile",
+  "appearance_schema": 2,
+  "appearance": {
+    "body": "male",
+    "outfit": "jade",
+    "weapon": "sword",
+    "hair": "topknot",
+    "boots": "cloth",
+    "hat": "none"
+  }
+}

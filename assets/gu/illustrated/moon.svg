@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 100 100"><g stroke="#292e2b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<!-- Nguyet Quang: a living crescent-wing moth, not an abstract moon button. -->
+<path d="M42 39 Q31 21 18 21 Q10 30 13 44 Q15 59 37 68 Q22 52 29 40 Q34 35 42 39Z" fill="#637e6c"/>
+<path d="M58 39 Q69 21 82 21 Q90 30 87 44 Q85 59 63 68 Q78 52 71 40 Q66 35 58 39Z" fill="#abc2a0"/>
+<path d="M43 46 Q26 42 20 29 Q18 52 37 63 Q26 48 43 46Z" fill="#aec5a6" stroke-width="1"/>
+<path d="M57 46 Q74 42 80 29 Q82 52 63 63 Q74 48 57 46Z" fill="#e1dfae" stroke-width="1"/>
+<path d="M43 50 Q29 57 26 71 Q37 74 46 62L50 52Z" fill="#92aa88"/>
+<path d="M57 50 Q71 57 74 71 Q63 74 54 62L50 52Z" fill="#718e78"/>
+<path d="M37 29Q39 37 42 41M65 29Q61 35 59 41M30 61L41 56M68 63L60 57" fill="none" stroke="#d8dab0" stroke-width="1.2"/>
+<path d="M45 30Q36 26 37 16M55 30Q63 23 61 16" fill="none" stroke-width="1.7"/>
+<path d="M43 34 Q45 26 50 27 Q58 28 57 35L54 43H46Z" fill="#d9d9ad"/>
+<path d="M46 42Q40 51 46 68L50 81Q58 72 57 60L54 42Z" fill="#51675a"/>
+<path d="M48 44Q50 41 52 45L52 72L49 75Z" fill="#c4d0a2" stroke-width=".9"/>
+<path d="M45 54L55 54M46 62L54 62M48 69L52 69" fill="none" stroke-width="1.2"/>
+<path d="M45 34L47 35M53 35L55 34" stroke="#292e2b" stroke-width="2.6"/>
+<path d="M43 45L35 49M57 45L65 49" fill="none" stroke-width="1.5"/>
+</g></svg>

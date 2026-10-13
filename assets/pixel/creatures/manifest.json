@@ -1,0 +1,33 @@
+{
+  "revision": "pixel11",
+  "original": true,
+  "generator": "tools/generate_pixel_wolves.py",
+  "texture": "res://assets/pixel/creatures/forest_wolf.png",
+  "frame_size": [
+    64,
+    64
+  ],
+  "pivot": [
+    32,
+    52
+  ],
+  "frames_per_action": 4,
+  "actions": [
+    "idle",
+    "walk",
+    "windup",
+    "strike",
+    "hit",
+    "death"
+  ],
+  "directions": [
+    "down",
+    "down_left",
+    "left",
+    "up_left",
+    "up",
+    "up_right",
+    "right",
+    "down_right"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "recipes": {
+    "press_seal": {
+      "name": "Ép phong ấn",
+      "description": "Luyện da thú với linh thảo và nguyên thạch thành giấy phong ấn để thu phục Cổ.",
+      "cost": {"hide": 2, "herb": 1, "stone": 1, "silver": 10},
+      "output": {"seal": 2}
+    },
+    "strain_nectar": {
+      "name": "Lọc mật linh hoa",
+      "description": "Tinh lọc phấn hoa với linh thảo thành thức ăn cho Băng Tằm Cổ.",
+      "cost": {"pollen": 3, "herb": 1, "silver": 6},
+      "output": {"nectar": 2}
+    },
+    "transmute_eggs": {
+      "name": "Chưng chân nguyên thạch",
+      "description": "Chưng sản vật linh kê thành nguyên liệu nuôi và tu luyện Cổ.",
+      "cost": {"egg": 2},
+      "output": {"stone": 3}
+    }
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "version": 1,
+  "pixel_scale": 1,
+  "tile_size": 32,
+  "terrain": {
+    "path": "res://assets/pixel/environment/terrain.png",
+    "columns": 8,
+    "tile_count": 48,
+    "groups": {
+      "grass": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "dirt": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "stone": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "water": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "flowers": [
+        46
+      ],
+      "farm": [
+        47
+      ]
+    }
+  },
+  "props": {
+    "path": "res://assets/pixel/environment/props.png",
+    "frame_size": [
+      96,
+      96
+    ],
+    "columns": 8,
+    "pivot": [
+      48,
+      88
+    ],
+    "frames": [
+      {
+        "name": "tree_0",
+        "index": 0,
+        "region": [
+          0,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -42,
+          -81,
+          81,
+          86
+        ]
+      },
+      {
+        "name": "tree_1",
+        "index": 1,
+        "region": [
+          96,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -41,
+          -83,
+          79,
+          88
+        ]
+      },
+      {
+        "name": "tree_2",
+        "index": 2,
+        "region": [
+          192,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -37,
+          -80,
+          75,
+          85
+        ]
+      },
+      {
+        "name": "tree_3",
+        "index": 3,
+        "region": [
+          288,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -42,
+          -81,
+          81,
+          86
+        ]
+      },
+      {
+        "name": "tree_4",
+        "index": 4,
+        "region": [
+          384,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -42,
+          -81,
+          81,
+          86
+        ]
+      },
+      {
+        "name": "rock_0",
+        "index": 5,
+        "region": [
+          480,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -18,
+          -23,
+          37,
+          27
+        ]
+      },
+      {
+        "name": "rock_1",
+        "index": 6,
+        "region": [
+          576,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -18,
+          -22,
+          40,
+          26
+        ]
+      },
+      {
+        "name": "rock_2",
+        "index": 7,
+        "region": [
+          672,
+          0,
+          96,
+          96
+        ],
+        "bounds": [
+          -17,
+          -27,
+          35,
+          31
+        ]
+      },
+      {
+        "name": "rock_3",
+        "index": 8,
+        "region": [
+          0,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -18,
+          -23,
+          37,
+          27
+        ]
+      },
+      {
+        "name": "house_0_0",
+        "index": 9,
+        "region": [
+          96,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -19,
+          -69,
+          35,
+          70
+        ]
+      },
+      {
+        "name": "house_0_1",
+        "index": 10,
+        "region": [
+          192,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -16,
+          -69,
+          32,
+          71
+        ]
+      },
+      {
+        "name": "house_0_2",
+        "index": 11,
+        "region": [
+          288,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -16,
+          -69,
+          35,
+          70
+        ]
+      },
+      {
+        "name": "house_1_0",
+        "index": 12,
+        "region": [
+          384,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -19,
+          -69,
+          35,
+          70
+        ]
+      },
+      {
+        "name": "house_1_1",
+        "index": 13,
+        "region": [
+          480,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -16,
+          -69,
+          32,
+          71
+        ]
+      },
+      {
+        "name": "house_1_2",
+        "index": 14,
+        "region": [
+          576,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -16,
+          -69,
+          35,
+          70
+        ]
+      },
+      {
+        "name": "pillar_0",
+        "index": 15,
+        "region": [
+          672,
+          96,
+          96,
+          96
+        ],
+        "bounds": [
+          -13,
+          -50,
+          27,
+          53
+        ]
+      },
+      {
+        "name": "pillar_1",
+        "index": 16,
+        "region": [
+          0,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -13,
+          -50,
+          27,
+          53
+        ]
+      },
+      {
+        "name": "monolith",
+        "index": 17,
+        "region": [
+          96,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -20,
+          -70,
+          43,
+          75
+        ]
+      },
+      {
+        "name": "lantern_0",
+        "index": 18,
+        "region": [
+          192,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -12,
+          -50,
+          40,
+          54
+        ]
+      },
+      {
+        "name": "lantern_1",
+        "index": 19,
+        "region": [
+          288,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -12,
+          -50,
+          40,
+          54
+        ]
+      },
+      {
+        "name": "lantern_2",
+        "index": 20,
+        "region": [
+          384,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -12,
+          -50,
+          40,
+          54
+        ]
+      },
+      {
+        "name": "lantern_3",
+        "index": 21,
+        "region": [
+          480,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -12,
+          -50,
+          40,
+          54
+        ]
+      },
+      {
+        "name": "altar_0",
+        "index": 22,
+        "region": [
+          576,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -23,
+          -35,
+          47,
+          39
+        ]
+      },
+      {
+        "name": "altar_1",
+        "index": 23,
+        "region": [
+          672,
+          192,
+          96,
+          96
+        ],
+        "bounds": [
+          -23,
+          -36,
+          47,
+          40
+        ]
+      },
+      {
+        "name": "altar_2",
+        "index": 24,
+        "region": [
+          0,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -23,
+          -35,
+          47,
+          39
+        ]
+      },
+      {
+        "name": "altar_3",
+        "index": 25,
+        "region": [
+          96,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -23,
+          -36,
+          47,
+          40
+        ]
+      },
+      {
+        "name": "well",
+        "index": 26,
+        "region": [
+          192,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -20,
+          -29,
+          41,
+          33
+        ]
+      },
+      {
+        "name": "crates",
+        "index": 27,
+        "region": [
+          288,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -15,
+          -20,
+          32,
+          23
+        ]
+      },
+      {
+        "name": "fence",
+        "index": 28,
+        "region": [
+          384,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -14,
+          -26,
+          30,
+          26
+        ]
+      },
+      {
+        "name": "hut_0",
+        "index": 29,
+        "region": [
+          480,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -25,
+          -59,
+          52,
+          64
+        ]
+      },
+      {
+        "name": "hut_1",
+        "index": 30,
+        "region": [
+          576,
+          288,
+          96,
+          96
+        ],
+        "bounds": [
+          -25,
+          -59,
+          52,
+          64
+        ]
+      }
+    ]
+  },
+  "source": "Original code-authored pixel art; no graphics copied from reference games.",
+  "generator": "tools/generate_pixel_environment.py"
+}

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="vi">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cổ Sư · Hành trang · UI 0.54</title>
+<style>
+  :root { color-scheme:dark; font-family:system-ui,sans-serif; background:#1d221d; color:#e9dfc5 }
+  * { box-sizing:border-box }
+  body { margin:0; line-height:1.55 }
+  main { max-width:1400px; margin:auto; padding:28px clamp(16px,3vw,48px) 48px }
+  h1 { margin:0 0 8px; font-size:32px; font-weight:650 }
+  p { margin:0 0 16px; color:#b9c7ae; max-width:900px }
+  .tools { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin:18px 0 }
+  button { font:inherit; padding:8px 14px; border:1px solid #7c896c; background:#323c2e; color:#e9dfc5; border-radius:4px; cursor:pointer }
+  button[aria-pressed="true"] { background:#d8c792; color:#242e23; border-color:#e7d8a8 }
+  button:focus-visible { outline:2px solid #d8c792; outline-offset:3px }
+  [hidden] { display:none!important }
+  figure { margin:0; border:1px solid #59644e; background:#252d23 }
+  figcaption { padding:12px 16px; color:#d9cba3 }
+  img { width:100%; display:block; height:auto }
+  .note { font-size:13px; margin-top:16px }
+  .guide { display:flex; gap:24px; flex-wrap:wrap; border-top:1px solid #59644e; padding-top:20px; margin-top:24px }
+  .guide p { flex:1 1 240px }
+  strong { color:#e9dfc5 }
+</style>
+<main>
+  <h1>Hành trang · UI 0.54</h1>
+  <p><strong>Đã cập nhật khoảng đệm chữ và viền.</strong> Ô đồ tách riêng hình và số lượng; nút và khung được nới lề. <a style="color:#d8c792" href="hud54_review.html">Xem toàn bộ HUD mới ↗</a></p>
+  <p>Chọn vật phẩm để xem thông tin và thao tác ngay trong túi. Chuột phải mở menu; kéo vào ô trống hoặc lên vật phẩm khác để sắp xếp.</p>
+  <div class="tools" aria-label="Ảnh chức năng">
+    <button data-mode="information" aria-pressed="true">Thông tin</button>
+    <button data-mode="food" aria-pressed="false">Dùng vật phẩm</button>
+    <button data-mode="craft" aria-pressed="false">Chế tạo</button>
+    <button data-mode="seal_recipe" aria-pressed="false">Công thức phong ấn</button>
+    <button data-mode="context" aria-pressed="false">Chuột phải</button>
+    <button data-mode="delete" aria-pressed="false">Xác nhận xóa</button>
+    <button data-mode="before" aria-pressed="false">Trước · 0.50</button>
+  </div>
+  <div class="tools" id="sizes" aria-label="Độ phân giải" hidden>
+    <button data-size="960" aria-pressed="false">960 × 640</button>
+    <button data-size="1280" aria-pressed="true">1280 × 800</button>
+    <button data-size="1920" aria-pressed="false">1920 × 1080</button>
+  </div>
+  <figure>
+    <figcaption id="caption" aria-live="polite">Thông tin và thao tác cho Cổ đã chọn · 1280 × 800</figcaption>
+    <img id="screen" src="hud54_inventory_information_1280.png?v=54" alt="Thông tin và thao tác cho Cổ đã chọn" width="1280" height="800">
+  </figure>
+  <div class="guide">
+    <p><strong>Tab / F4 mở túi.</strong><br>Thức ăn cho chọn Cổ cần nuôi. Phong ấn dùng trên mục tiêu đủ điều kiện. Hạt giống mở bảng gieo trồng.</p>
+    <p><strong>Chế tạo có nguyên liệu thật.</strong><br>Xem số có/cần, bạc, số lượt và sản phẩm trước khi bấm. Nâng/hợp Cổ mở đúng Cổ đã chọn trong bảng G.</p>
+    <p><strong>Sắp xếp và xóa.</strong><br>Bố cục giữ cả ô trống khi lưu. Xóa có tên và số lượng; Esc giữ lại. Cổ đang khảm được bảo vệ.</p>
+  </div>
+  <p class="note">Ảnh chụp trực tiếp từ Godot native Windows. Đây là trang xem ảnh kiểm chứng UI; thao tác chơi thực hiện trong game. Công thức hiện có: ép phong ấn, lọc mật linh hoa và chưng chân nguyên thạch.</p>
+</main>
+<script>
+  let mode='information',size='1280';
+  const labels={information:'Thông tin và thao tác cho Cổ đã chọn',food:'Thức ăn: chọn rõ Cổ cần nuôi',craft:'Chế tạo theo số lượt, có nguyên liệu và sản phẩm',seal_recipe:'Ép phong ấn: vật liệu và bạc',context:'Menu chuột phải; khóa xóa Cổ đang khảm',delete:'Xác nhận tên và số lượng trước khi xóa',before:'Hành trang trước khi bổ sung bảng thao tác'};
+  function update(){
+    const activeSize=mode==='craft'?size:'1280';
+    const img=document.getElementById('screen');
+    img.src=mode==='before'?'inventory51_baseline/inventory_1280.png':`hud54_inventory_${mode}_${activeSize}.png?v=54`;
+    img.width=Number(activeSize);img.height=activeSize==='960'?640:activeSize==='1920'?1080:800;
+    img.alt=labels[mode];
+    document.getElementById('caption').textContent=`${labels[mode]} · ${activeSize} × ${img.height}`;
+    document.getElementById('sizes').hidden=mode!=='craft';
+  }
+  document.querySelectorAll('[data-mode]').forEach(button=>button.onclick=()=>{
+    mode=button.dataset.mode;
+    document.querySelectorAll('[data-mode]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
+    update();
+  });
+  document.querySelectorAll('[data-size]').forEach(button=>button.onclick=()=>{
+    size=button.dataset.size;
+    document.querySelectorAll('[data-size]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
+    update();
+  });
+</script>
+</html>

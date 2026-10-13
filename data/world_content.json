@@ -1,0 +1,5572 @@
+{
+  "version": 2,
+  "size": 256,
+  "regions": {
+    "forest": {
+      "name": "Thanh Mao Sơn",
+      "subtitle": "Trại tông tộc • trúc hải • nam lâm • lôi lĩnh",
+      "reward": "Thịt, da thú, mật hoa, tơ độc và nanh điện lang",
+      "biome": "bamboo",
+      "camps": [
+        {
+          "id": "f_bamboo",
+          "name": "Rừng trúc đông",
+          "cell": [
+            38,
+            20
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Bãi nhập môn; sói cận chiến, khoảng trống rộng.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "f_boars",
+          "name": "Dốc Hắc Mao",
+          "cell": [
+            62,
+            16
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Quan sát hướng lao rồi né sang bên.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "f_spiders",
+          "name": "Đầm Tơ Độc",
+          "cell": [
+            77,
+            39
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "venom",
+          "description": "Vùng phun độc báo trên đất; liên tục đổi vị trí.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "f_honey",
+          "name": "Mật Lâm",
+          "cell": [
+            54,
+            55
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong nhanh, ít máu; nguồn mật và phấn hoa.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "f_wolves",
+          "name": "Khe Lang",
+          "cell": [
+            28,
+            72
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Bãi sói cách xa trại, thích hợp luyện Cổ.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "f_thunder",
+          "name": "Đỉnh Lôi Lang",
+          "cell": [
+            78,
+            77
+          ],
+          "species": "lightning_wolf",
+          "count": 1,
+          "resource": "fang",
+          "description": "Đầu lĩnh; chuẩn bị khiên, lướt và dược liệu.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_00",
+          "name": "Trúc Hải",
+          "cell": [
+            114,
+            24
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Sói phối hợp cận chiến; giữ khoảng trống để lùi.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_01",
+          "name": "Đèo Hắc Nha",
+          "cell": [
+            164,
+            26
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_02",
+          "name": "Lâm Tuyền",
+          "cell": [
+            212,
+            24
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Sói phối hợp cận chiến; giữ khoảng trống để lùi.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_03",
+          "name": "Tổ Kim Châm",
+          "cell": [
+            236,
+            62
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_04",
+          "name": "Hẻm Ti Nhện",
+          "cell": [
+            116,
+            78
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_05",
+          "name": "Rừng Tùng Cổ",
+          "cell": [
+            162,
+            78
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_06",
+          "name": "Dốc Huyết Mao",
+          "cell": [
+            206,
+            106
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_07",
+          "name": "Đầm Mù Sương",
+          "cell": [
+            236,
+            130
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_08",
+          "name": "Thung Lũng Bầy Sói",
+          "cell": [
+            26,
+            124
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Sói phối hợp cận chiến; giữ khoảng trống để lùi.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_09",
+          "name": "Cốc Mật Ngọt",
+          "cell": [
+            70,
+            134
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_10",
+          "name": "Bãi Linh Dược",
+          "cell": [
+            118,
+            132
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_11",
+          "name": "Khe Đá Trắng",
+          "cell": [
+            160,
+            150
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_12",
+          "name": "Rừng Sương Nam",
+          "cell": [
+            28,
+            202
+          ],
+          "species": "wolf",
+          "count": 6,
+          "resource": "meat",
+          "description": "Sói phối hợp cận chiến; giữ khoảng trống để lùi.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_13",
+          "name": "Cồn Trúc Gió",
+          "cell": [
+            84,
+            218
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_14",
+          "name": "Đỉnh Vọng Lôi",
+          "cell": [
+            148,
+            220
+          ],
+          "species": "lightning_wolf",
+          "count": 1,
+          "resource": "fang",
+          "description": "Đầu lĩnh ở vùng xa; ghi dấu trạm trước khi giao chiến.",
+          "region": "forest",
+          "radius": 6
+        },
+        {
+          "id": "w45_forest_camp_15",
+          "name": "Hang Lôi Lang",
+          "cell": [
+            222,
+            224
+          ],
+          "species": "lightning_wolf",
+          "count": 1,
+          "resource": "fang",
+          "description": "Đầu lĩnh ở vùng xa; ghi dấu trạm trước khi giao chiến.",
+          "region": "forest",
+          "radius": 6
+        }
+      ],
+      "waypoints": [
+        {
+          "id": "f_east",
+          "name": "Trạm Trúc Đông",
+          "cell": [
+            32,
+            32
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "f_south",
+          "name": "Trạm Mật Lâm",
+          "cell": [
+            52,
+            67
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "f_peak",
+          "name": "Trạm Lôi Sơn",
+          "cell": [
+            78,
+            66
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_00",
+          "name": "Trạm Trúc Hải",
+          "cell": [
+            110,
+            52
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_01",
+          "name": "Trạm Lâm Tuyền",
+          "cell": [
+            185,
+            50
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_02",
+          "name": "Trạm Đông Lĩnh",
+          "cell": [
+            225,
+            92
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_03",
+          "name": "Trạm Đầm Sương",
+          "cell": [
+            212,
+            168
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_04",
+          "name": "Trạm Vọng Lôi",
+          "cell": [
+            182,
+            212
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_05",
+          "name": "Trạm Nam Lâm",
+          "cell": [
+            114,
+            190
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_06",
+          "name": "Trạm Cồn Trúc",
+          "cell": [
+            56,
+            182
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_forest_gate_07",
+          "name": "Trạm Nam Khê",
+          "cell": [
+            30,
+            108
+          ],
+          "region": "forest",
+          "kind": "waypoint"
+        }
+      ],
+      "roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            26,
+            20
+          ],
+          [
+            38,
+            20
+          ],
+          [
+            62,
+            16
+          ]
+        ],
+        [
+          [
+            26,
+            20
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            54,
+            39
+          ],
+          [
+            77,
+            39
+          ]
+        ],
+        [
+          [
+            32,
+            32
+          ],
+          [
+            32,
+            52
+          ],
+          [
+            28,
+            72
+          ]
+        ],
+        [
+          [
+            54,
+            39
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            52,
+            67
+          ],
+          [
+            78,
+            66
+          ],
+          [
+            78,
+            77
+          ]
+        ],
+        [
+          [
+            28,
+            72
+          ],
+          [
+            52,
+            67
+          ]
+        ],
+        [
+          [
+            77,
+            39
+          ],
+          [
+            78,
+            66
+          ]
+        ],
+        [
+          [
+            78,
+            66
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            28,
+            72
+          ],
+          [
+            30,
+            108
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            185,
+            50
+          ],
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            168
+          ],
+          [
+            182,
+            212
+          ],
+          [
+            114,
+            190
+          ],
+          [
+            56,
+            182
+          ],
+          [
+            30,
+            108
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            114,
+            190
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            225,
+            92
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            222,
+            224
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            222,
+            224
+          ]
+        ]
+      ],
+      "resources": [
+        {
+          "id": "f_bamboo_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            33,
+            23
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_bamboo_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            42,
+            16
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_boars_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            57,
+            19
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_boars_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            66,
+            12
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_spiders_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            72,
+            42
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_spiders_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            81,
+            35
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_honey_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            49,
+            58
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_honey_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            58,
+            51
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_wolves_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            23,
+            75
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_wolves_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            32,
+            68
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_thunder_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            73,
+            80
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "f_thunder_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            82,
+            73
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_00_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            109,
+            27
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_00_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            118,
+            20
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_00_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            119,
+            27
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_01_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            159,
+            29
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_01_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            168,
+            22
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_01_node2",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            169,
+            29
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_02_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            207,
+            27
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_02_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            216,
+            20
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_02_node2",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            217,
+            27
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_03_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            231,
+            65
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_03_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            240,
+            58
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_03_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            241,
+            65
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_04_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            111,
+            81
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_04_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            120,
+            74
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_04_node2",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            121,
+            81
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_05_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            157,
+            81
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_05_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            166,
+            74
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_05_node2",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            167,
+            81
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_06_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            201,
+            109
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_06_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            210,
+            102
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_06_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            211,
+            109
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_07_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            231,
+            133
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_07_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            240,
+            126
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_07_node2",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            241,
+            133
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_08_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            21,
+            127
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_08_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            30,
+            120
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_08_node2",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            31,
+            127
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_09_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            65,
+            137
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_09_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            74,
+            130
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_09_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            75,
+            137
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_10_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            113,
+            135
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_10_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            122,
+            128
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_10_node2",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            123,
+            135
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_11_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            155,
+            153
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_11_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            164,
+            146
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_11_node2",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            165,
+            153
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_12_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            23,
+            205
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_12_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            32,
+            198
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_12_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            33,
+            205
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_13_node0",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            79,
+            221
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_13_node1",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            88,
+            214
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_13_node2",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            89,
+            221
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_14_node0",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            143,
+            223
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_14_node1",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            152,
+            216
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_14_node2",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            153,
+            223
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_15_node0",
+          "name": "Dược thảo",
+          "region": "forest",
+          "cell": [
+            217,
+            227
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_15_node1",
+          "name": "Cụm linh hoa",
+          "region": "forest",
+          "cell": [
+            226,
+            220
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_forest_camp_15_node2",
+          "name": "Bụi linh quả",
+          "region": "forest",
+          "cell": [
+            227,
+            227
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        }
+      ],
+      "legacy_roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            26,
+            20
+          ],
+          [
+            38,
+            20
+          ],
+          [
+            62,
+            16
+          ]
+        ],
+        [
+          [
+            26,
+            20
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            54,
+            39
+          ],
+          [
+            77,
+            39
+          ]
+        ],
+        [
+          [
+            32,
+            32
+          ],
+          [
+            32,
+            52
+          ],
+          [
+            28,
+            72
+          ]
+        ],
+        [
+          [
+            54,
+            39
+          ],
+          [
+            54,
+            55
+          ],
+          [
+            52,
+            67
+          ],
+          [
+            78,
+            66
+          ],
+          [
+            78,
+            77
+          ]
+        ],
+        [
+          [
+            28,
+            72
+          ],
+          [
+            52,
+            67
+          ]
+        ],
+        [
+          [
+            77,
+            39
+          ],
+          [
+            78,
+            66
+          ]
+        ]
+      ],
+      "districts": [
+        {
+          "id": "forest_district_0",
+          "name": "Trại và lâm địa cũ",
+          "bounds": [
+            1,
+            1,
+            94,
+            94
+          ]
+        },
+        {
+          "id": "forest_district_1",
+          "name": "Trúc Hải Đông Lĩnh",
+          "bounds": [
+            96,
+            1,
+            159,
+            95
+          ]
+        },
+        {
+          "id": "forest_district_2",
+          "name": "Nam Khê",
+          "bounds": [
+            1,
+            96,
+            95,
+            80
+          ]
+        },
+        {
+          "id": "forest_district_3",
+          "name": "Đầm Sương",
+          "bounds": [
+            96,
+            96,
+            159,
+            80
+          ]
+        },
+        {
+          "id": "forest_district_4",
+          "name": "Nam Lâm",
+          "bounds": [
+            1,
+            176,
+            119,
+            79
+          ]
+        },
+        {
+          "id": "forest_district_5",
+          "name": "Lôi Lĩnh",
+          "bounds": [
+            120,
+            176,
+            135,
+            79
+          ]
+        }
+      ],
+      "waterways": [
+        {
+          "kind": "river",
+          "axis": "y",
+          "start": 98,
+          "end": 251,
+          "center": 95,
+          "amplitude": 10,
+          "frequency": 0.035,
+          "width": 3.2
+        },
+        {
+          "kind": "river",
+          "axis": "x",
+          "start": 104,
+          "end": 250,
+          "center": 178,
+          "amplitude": 9,
+          "frequency": 0.035,
+          "width": 3
+        },
+        {
+          "kind": "pond",
+          "center": [
+            212,
+            62
+          ],
+          "radii": [
+            16,
+            13
+          ]
+        },
+        {
+          "kind": "pond",
+          "center": [
+            55,
+            226
+          ],
+          "radii": [
+            13,
+            9
+          ]
+        }
+      ]
+    },
+    "ruins": {
+      "name": "Tam Vương Cổ Địa",
+      "subtitle": "Tiền điện • thạch trụ • phế đô • nội điện",
+      "reward": "Nguyên thạch, khoáng thạch, tàn quyển và cổ tinh",
+      "biome": "ruins",
+      "camps": [
+        {
+          "id": "r_mine",
+          "name": "Mỏ Nguyên Thạch",
+          "cell": [
+            38,
+            18
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp dày, đòn lao chậm; nguyên liệu luyện Cổ.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "r_marsh",
+          "name": "Độc Đàm",
+          "cell": [
+            67,
+            22
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Phun vào điểm đã ngắm; né ra khỏi vòng báo.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "r_silk",
+          "name": "Hành Lang Tơ",
+          "cell": [
+            78,
+            49
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Nhiều tơ linh, tránh kéo cả đàn.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "r_sentinels",
+          "name": "Sân Thạch Điện",
+          "cell": [
+            49,
+            60
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "relic",
+          "description": "Thu tàn quyển từ giáp trùng canh giữ.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "r_ash",
+          "name": "Bãi Tro Tàn",
+          "cell": [
+            27,
+            78
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Da thú và thịt; dùng cột đá chia đàn.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "r_guardian",
+          "name": "Điện Truyền Thừa",
+          "cell": [
+            77,
+            79
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Thủ vệ dùng đòn nổ báo trước, phần thưởng hiếm.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_00",
+          "name": "Mỏ Huyền Thạch",
+          "cell": [
+            114,
+            24
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_01",
+          "name": "Thạch Trụ Bắc",
+          "cell": [
+            164,
+            26
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_02",
+          "name": "Cổng Thiên Văn",
+          "cell": [
+            212,
+            24
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_03",
+          "name": "Hành Lang Bạch Cốt",
+          "cell": [
+            236,
+            62
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_04",
+          "name": "Tàn Điện Tơ",
+          "cell": [
+            116,
+            78
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_05",
+          "name": "Hố Độc Cổ",
+          "cell": [
+            162,
+            78
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_06",
+          "name": "Tàng Kinh Đài",
+          "cell": [
+            206,
+            106
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_07",
+          "name": "Mỏ Tinh Thạch",
+          "cell": [
+            236,
+            130
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_08",
+          "name": "Bãi Chiến Trường",
+          "cell": [
+            26,
+            124
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_09",
+          "name": "Điện Hỏa Tàn",
+          "cell": [
+            70,
+            134
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_10",
+          "name": "Sân Cổ Ấn",
+          "cell": [
+            118,
+            132
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_11",
+          "name": "Khe Nguyên Tinh",
+          "cell": [
+            160,
+            150
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_12",
+          "name": "Huyết Thạch Lộ",
+          "cell": [
+            28,
+            202
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_13",
+          "name": "Phế Đô Nam",
+          "cell": [
+            84,
+            218
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_14",
+          "name": "Thủ Vệ Ngoại Điện",
+          "cell": [
+            148,
+            220
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Thủ vệ giữ nguồn tài nguyên; rời ấn nổ rồi mới phản công.",
+          "region": "ruins",
+          "radius": 6
+        },
+        {
+          "id": "w45_ruins_camp_15",
+          "name": "Đại Điện Tam Vương",
+          "cell": [
+            222,
+            224
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Thủ vệ giữ nguồn tài nguyên; rời ấn nổ rồi mới phản công.",
+          "region": "ruins",
+          "radius": 6
+        }
+      ],
+      "waypoints": [
+        {
+          "id": "r_mine_gate",
+          "name": "Trạm Mỏ Cũ",
+          "cell": [
+            32,
+            32
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "r_court",
+          "name": "Trạm Thạch Điện",
+          "cell": [
+            44,
+            48
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "r_depth",
+          "name": "Trạm Điện Sâu",
+          "cell": [
+            69,
+            69
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_00",
+          "name": "Trạm Huyền Thạch",
+          "cell": [
+            110,
+            52
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_01",
+          "name": "Trạm Thiên Văn",
+          "cell": [
+            185,
+            50
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_02",
+          "name": "Trạm Đông Điện",
+          "cell": [
+            225,
+            92
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_03",
+          "name": "Trạm Tàng Kinh",
+          "cell": [
+            212,
+            168
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_04",
+          "name": "Trạm Tam Vương",
+          "cell": [
+            182,
+            212
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_05",
+          "name": "Trạm Nam Đô",
+          "cell": [
+            114,
+            190
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_06",
+          "name": "Trạm Hỏa Tàn",
+          "cell": [
+            56,
+            182
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_ruins_gate_07",
+          "name": "Trạm Cựu Chiến",
+          "cell": [
+            30,
+            108
+          ],
+          "region": "ruins",
+          "kind": "waypoint"
+        }
+      ],
+      "roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            25,
+            20
+          ],
+          [
+            38,
+            18
+          ],
+          [
+            67,
+            22
+          ]
+        ],
+        [
+          [
+            25,
+            20
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            44,
+            48
+          ],
+          [
+            49,
+            60
+          ],
+          [
+            27,
+            78
+          ]
+        ],
+        [
+          [
+            44,
+            48
+          ],
+          [
+            78,
+            49
+          ]
+        ],
+        [
+          [
+            49,
+            60
+          ],
+          [
+            69,
+            69
+          ],
+          [
+            77,
+            79
+          ]
+        ],
+        [
+          [
+            67,
+            22
+          ],
+          [
+            78,
+            49
+          ],
+          [
+            69,
+            69
+          ]
+        ],
+        [
+          [
+            78,
+            66
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            28,
+            72
+          ],
+          [
+            30,
+            108
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            185,
+            50
+          ],
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            168
+          ],
+          [
+            182,
+            212
+          ],
+          [
+            114,
+            190
+          ],
+          [
+            56,
+            182
+          ],
+          [
+            30,
+            108
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            114,
+            190
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            225,
+            92
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            222,
+            224
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            222,
+            224
+          ]
+        ]
+      ],
+      "resources": [
+        {
+          "id": "r_mine_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            33,
+            21
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_mine_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            42,
+            14
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_marsh_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            62,
+            25
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_marsh_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            71,
+            18
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_silk_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            73,
+            52
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_silk_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            82,
+            45
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_sentinels_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            44,
+            63
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_sentinels_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            53,
+            56
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_ash_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            22,
+            81
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_ash_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            31,
+            74
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_guardian_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            72,
+            82
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "r_guardian_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            81,
+            75
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_00_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            109,
+            27
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_00_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            118,
+            20
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_00_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            119,
+            27
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_01_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            159,
+            29
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_01_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            168,
+            22
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_01_node2",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            169,
+            29
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_02_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            207,
+            27
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_02_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            216,
+            20
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_02_node2",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            217,
+            27
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_03_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            231,
+            65
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_03_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            240,
+            58
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_03_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            241,
+            65
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_04_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            111,
+            81
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_04_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            120,
+            74
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_04_node2",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            121,
+            81
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_05_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            157,
+            81
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_05_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            166,
+            74
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_05_node2",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            167,
+            81
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_06_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            201,
+            109
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_06_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            210,
+            102
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_06_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            211,
+            109
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_07_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            231,
+            133
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_07_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            240,
+            126
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_07_node2",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            241,
+            133
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_08_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            21,
+            127
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_08_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            30,
+            120
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_08_node2",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            31,
+            127
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_09_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            65,
+            137
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_09_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            74,
+            130
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_09_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            75,
+            137
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_10_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            113,
+            135
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_10_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            122,
+            128
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_10_node2",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            123,
+            135
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_11_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            155,
+            153
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_11_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            164,
+            146
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_11_node2",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            165,
+            153
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_12_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            23,
+            205
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_12_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            32,
+            198
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_12_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            33,
+            205
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_13_node0",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            79,
+            221
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_13_node1",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            88,
+            214
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_13_node2",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            89,
+            221
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_14_node0",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            143,
+            223
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_14_node1",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            152,
+            216
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_14_node2",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            153,
+            223
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_15_node0",
+          "name": "Mạch khoáng",
+          "region": "ruins",
+          "cell": [
+            217,
+            227
+          ],
+          "material": "ore",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_15_node1",
+          "name": "Nguyên thạch thô",
+          "region": "ruins",
+          "cell": [
+            226,
+            220
+          ],
+          "material": "stone",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_ruins_camp_15_node2",
+          "name": "Dược thảo",
+          "region": "ruins",
+          "cell": [
+            227,
+            227
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        }
+      ],
+      "legacy_roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            25,
+            20
+          ],
+          [
+            38,
+            18
+          ],
+          [
+            67,
+            22
+          ]
+        ],
+        [
+          [
+            25,
+            20
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            44,
+            48
+          ],
+          [
+            49,
+            60
+          ],
+          [
+            27,
+            78
+          ]
+        ],
+        [
+          [
+            44,
+            48
+          ],
+          [
+            78,
+            49
+          ]
+        ],
+        [
+          [
+            49,
+            60
+          ],
+          [
+            69,
+            69
+          ],
+          [
+            77,
+            79
+          ]
+        ],
+        [
+          [
+            67,
+            22
+          ],
+          [
+            78,
+            49
+          ],
+          [
+            69,
+            69
+          ]
+        ]
+      ],
+      "districts": [
+        {
+          "id": "ruins_district_0",
+          "name": "Tiền điện cũ",
+          "bounds": [
+            1,
+            1,
+            94,
+            94
+          ]
+        },
+        {
+          "id": "ruins_district_1",
+          "name": "Bắc Địa Thạch Trụ",
+          "bounds": [
+            96,
+            1,
+            159,
+            95
+          ]
+        },
+        {
+          "id": "ruins_district_2",
+          "name": "Cựu Chiến Trường",
+          "bounds": [
+            1,
+            96,
+            95,
+            80
+          ]
+        },
+        {
+          "id": "ruins_district_3",
+          "name": "Tàng Kinh Ngoại Vi",
+          "bounds": [
+            96,
+            96,
+            159,
+            80
+          ]
+        },
+        {
+          "id": "ruins_district_4",
+          "name": "Phế Đô",
+          "bounds": [
+            1,
+            176,
+            119,
+            79
+          ]
+        },
+        {
+          "id": "ruins_district_5",
+          "name": "Tam Vương Nội Điện",
+          "bounds": [
+            120,
+            176,
+            135,
+            79
+          ]
+        }
+      ],
+      "waterways": [
+        {
+          "kind": "river",
+          "axis": "y",
+          "start": 99,
+          "end": 251,
+          "center": 94,
+          "amplitude": 8,
+          "frequency": 0.04,
+          "width": 2.8
+        },
+        {
+          "kind": "river",
+          "axis": "x",
+          "start": 100,
+          "end": 251,
+          "center": 180,
+          "amplitude": 7,
+          "frequency": 0.028,
+          "width": 3.6
+        },
+        {
+          "kind": "pond",
+          "center": [
+            182,
+            104
+          ],
+          "radii": [
+            14,
+            17
+          ]
+        },
+        {
+          "kind": "pond",
+          "center": [
+            46,
+            160
+          ],
+          "radii": [
+            16,
+            8
+          ]
+        }
+      ]
+    },
+    "realm": {
+      "name": "Thanh Nang Phúc Địa",
+      "subtitle": "Linh điền • hoa hải • liên trì • nguồn linh mạch",
+      "reward": "Cây trồng, chăn nuôi, phấn hoa và nguyên liệu vùng hoang",
+      "biome": "wetland",
+      "camps": [
+        {
+          "id": "b_flowers",
+          "name": "Cốc Linh Hoa",
+          "cell": [
+            43,
+            23
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "pollen",
+          "description": "Hoa mọc trên linh mạch; ong giữ phấn hoa.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "b_marsh",
+          "name": "Hồ Thanh Thiềm",
+          "cell": [
+            72,
+            37
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "herb",
+          "description": "Dược liệu và độc nang ven hồ.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "b_beasts",
+          "name": "Rừng Linh Thú",
+          "cell": [
+            48,
+            70
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Nguyên liệu để duy trì vòng nuôi Cổ.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "b_core",
+          "name": "Trận Nhãn Ô Nhiễm",
+          "cell": [
+            78,
+            77
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Dẹp thủ vệ để khơi lại nước tưới linh điền.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_00",
+          "name": "Vườn Linh Hoa Đông",
+          "cell": [
+            114,
+            24
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_01",
+          "name": "Bãi Linh Thú Bắc",
+          "cell": [
+            164,
+            26
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_02",
+          "name": "Hoa Hải",
+          "cell": [
+            212,
+            24
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_03",
+          "name": "Hồ Bích Thiềm",
+          "cell": [
+            236,
+            62
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_04",
+          "name": "Rừng Cổ Tằm",
+          "cell": [
+            116,
+            78
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_05",
+          "name": "Bờ Thanh Ngọc",
+          "cell": [
+            162,
+            78
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_06",
+          "name": "Đồi Linh Quả",
+          "cell": [
+            206,
+            106
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_07",
+          "name": "Đầm Độc Diệp",
+          "cell": [
+            236,
+            130
+          ],
+          "species": "spider",
+          "count": 6,
+          "resource": "silk",
+          "description": "Giữ chân ngoài vùng phun độc và tách từng con.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_08",
+          "name": "Rừng Phúc Mộc",
+          "cell": [
+            26,
+            124
+          ],
+          "species": "boar",
+          "count": 6,
+          "resource": "hide",
+          "description": "Dụ hướng lao rồi né ngang; tránh kéo cả bầy.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_09",
+          "name": "Cốc Ngọc Mật",
+          "cell": [
+            70,
+            134
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_10",
+          "name": "Bãi Linh Dược Nam",
+          "cell": [
+            118,
+            132
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_11",
+          "name": "Mạch Địa Tinh",
+          "cell": [
+            160,
+            150
+          ],
+          "species": "beetle",
+          "count": 6,
+          "resource": "ore",
+          "description": "Giáp trùng chậm và nặng; phản công sau khi nó lao.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_12",
+          "name": "Bờ Nam Liên Trì",
+          "cell": [
+            28,
+            202
+          ],
+          "species": "toad",
+          "count": 6,
+          "resource": "venom",
+          "description": "Nhìn dấu báo trên đất, đổi vị trí trước khi độc rơi.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_13",
+          "name": "Rừng Bách Hoa",
+          "cell": [
+            84,
+            218
+          ],
+          "species": "hornet",
+          "count": 6,
+          "resource": "nectar",
+          "description": "Ong cơ động; dùng khiên trước khi áp sát.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_14",
+          "name": "Mắt Trận Đông Nam",
+          "cell": [
+            148,
+            220
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Thủ vệ giữ nguồn tài nguyên; rời ấn nổ rồi mới phản công.",
+          "region": "realm",
+          "radius": 6
+        },
+        {
+          "id": "w45_realm_camp_15",
+          "name": "Nguồn Thanh Nang",
+          "cell": [
+            222,
+            224
+          ],
+          "species": "guardian",
+          "count": 1,
+          "resource": "essence",
+          "description": "Thủ vệ giữ nguồn tài nguyên; rời ấn nổ rồi mới phản công.",
+          "region": "realm",
+          "radius": 6
+        }
+      ],
+      "waypoints": [
+        {
+          "id": "b_garden",
+          "name": "Trạm Linh Hoa",
+          "cell": [
+            33,
+            34
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "b_lake",
+          "name": "Trạm Hồ Sen",
+          "cell": [
+            65,
+            48
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "b_core_gate",
+          "name": "Trạm Trận Nhãn",
+          "cell": [
+            68,
+            68
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_00",
+          "name": "Trạm Đông Vườn",
+          "cell": [
+            110,
+            52
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_01",
+          "name": "Trạm Hoa Hải",
+          "cell": [
+            185,
+            50
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_02",
+          "name": "Trạm Bích Hồ",
+          "cell": [
+            225,
+            92
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_03",
+          "name": "Trạm Linh Quả",
+          "cell": [
+            212,
+            168
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_04",
+          "name": "Trạm Thanh Nang",
+          "cell": [
+            182,
+            212
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_05",
+          "name": "Trạm Nam Dược",
+          "cell": [
+            114,
+            190
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_06",
+          "name": "Trạm Liên Trì",
+          "cell": [
+            56,
+            182
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        },
+        {
+          "id": "w45_realm_gate_07",
+          "name": "Trạm Phúc Mộc",
+          "cell": [
+            30,
+            108
+          ],
+          "region": "realm",
+          "kind": "waypoint"
+        }
+      ],
+      "roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            25,
+            20
+          ],
+          [
+            43,
+            23
+          ]
+        ],
+        [
+          [
+            25,
+            20
+          ],
+          [
+            33,
+            34
+          ],
+          [
+            48,
+            48
+          ],
+          [
+            65,
+            48
+          ],
+          [
+            72,
+            37
+          ]
+        ],
+        [
+          [
+            48,
+            48
+          ],
+          [
+            48,
+            70
+          ],
+          [
+            68,
+            68
+          ],
+          [
+            78,
+            77
+          ]
+        ],
+        [
+          [
+            65,
+            48
+          ],
+          [
+            68,
+            68
+          ]
+        ],
+        [
+          [
+            78,
+            66
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            28,
+            72
+          ],
+          [
+            30,
+            108
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            185,
+            50
+          ],
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            168
+          ],
+          [
+            182,
+            212
+          ],
+          [
+            114,
+            190
+          ],
+          [
+            56,
+            182
+          ],
+          [
+            30,
+            108
+          ],
+          [
+            110,
+            52
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            114,
+            190
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            126,
+            116
+          ],
+          [
+            225,
+            92
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            114,
+            24
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            164,
+            26
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            212,
+            24
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            236,
+            62
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            116,
+            78
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            110,
+            52
+          ],
+          [
+            162,
+            78
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            185,
+            50
+          ],
+          [
+            206,
+            106
+          ]
+        ],
+        [
+          [
+            225,
+            92
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            236,
+            130
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            26,
+            124
+          ]
+        ],
+        [
+          [
+            30,
+            108
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            70,
+            134
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            118,
+            132
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            160,
+            150
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            28,
+            202
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            56,
+            182
+          ],
+          [
+            84,
+            218
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            114,
+            190
+          ],
+          [
+            148,
+            220
+          ]
+        ],
+        [
+          [
+            182,
+            212
+          ],
+          [
+            222,
+            224
+          ]
+        ],
+        [
+          [
+            212,
+            168
+          ],
+          [
+            222,
+            224
+          ]
+        ]
+      ],
+      "resources": [
+        {
+          "id": "b_flowers_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            38,
+            26
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_flowers_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            47,
+            19
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_marsh_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            67,
+            40
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_marsh_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            76,
+            33
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_beasts_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            43,
+            73
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_beasts_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            52,
+            66
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_core_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            73,
+            80
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "b_core_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            82,
+            73
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_00_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            109,
+            27
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_00_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            118,
+            20
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_00_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            119,
+            27
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_01_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            159,
+            29
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_01_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            168,
+            22
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_01_node2",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            169,
+            29
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_02_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            207,
+            27
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_02_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            216,
+            20
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_02_node2",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            217,
+            27
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_03_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            231,
+            65
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_03_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            240,
+            58
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_03_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            241,
+            65
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_04_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            111,
+            81
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_04_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            120,
+            74
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_04_node2",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            121,
+            81
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_05_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            157,
+            81
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_05_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            166,
+            74
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_05_node2",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            167,
+            81
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_06_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            201,
+            109
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_06_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            210,
+            102
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_06_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            211,
+            109
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_07_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            231,
+            133
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_07_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            240,
+            126
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_07_node2",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            241,
+            133
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_08_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            21,
+            127
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_08_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            30,
+            120
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_08_node2",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            31,
+            127
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_09_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            65,
+            137
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_09_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            74,
+            130
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_09_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            75,
+            137
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_10_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            113,
+            135
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_10_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            122,
+            128
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_10_node2",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            123,
+            135
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_11_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            155,
+            153
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_11_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            164,
+            146
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_11_node2",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            165,
+            153
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_12_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            23,
+            205
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_12_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            32,
+            198
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_12_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            33,
+            205
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_13_node0",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            79,
+            221
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_13_node1",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            88,
+            214
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_13_node2",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            89,
+            221
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_14_node0",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            143,
+            223
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_14_node1",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            152,
+            216
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_14_node2",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            153,
+            223
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_15_node0",
+          "name": "Dược thảo",
+          "region": "realm",
+          "cell": [
+            217,
+            227
+          ],
+          "material": "herb",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_15_node1",
+          "name": "Bụi linh quả",
+          "region": "realm",
+          "cell": [
+            226,
+            220
+          ],
+          "material": "fruit",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        },
+        {
+          "id": "w45_realm_camp_15_node2",
+          "name": "Cụm linh hoa",
+          "region": "realm",
+          "cell": [
+            227,
+            227
+          ],
+          "material": "nectar",
+          "yield_count": 2,
+          "respawn": 75,
+          "kind": "resource"
+        }
+      ],
+      "legacy_roads": [
+        [
+          [
+            12,
+            20
+          ],
+          [
+            25,
+            20
+          ],
+          [
+            43,
+            23
+          ]
+        ],
+        [
+          [
+            25,
+            20
+          ],
+          [
+            33,
+            34
+          ],
+          [
+            48,
+            48
+          ],
+          [
+            65,
+            48
+          ],
+          [
+            72,
+            37
+          ]
+        ],
+        [
+          [
+            48,
+            48
+          ],
+          [
+            48,
+            70
+          ],
+          [
+            68,
+            68
+          ],
+          [
+            78,
+            77
+          ]
+        ],
+        [
+          [
+            65,
+            48
+          ],
+          [
+            68,
+            68
+          ]
+        ]
+      ],
+      "districts": [
+        {
+          "id": "realm_district_0",
+          "name": "Linh điền và khu hoang cũ",
+          "bounds": [
+            1,
+            1,
+            94,
+            94
+          ]
+        },
+        {
+          "id": "realm_district_1",
+          "name": "Hoa Hải",
+          "bounds": [
+            96,
+            1,
+            159,
+            95
+          ]
+        },
+        {
+          "id": "realm_district_2",
+          "name": "Phúc Mộc",
+          "bounds": [
+            1,
+            96,
+            95,
+            80
+          ]
+        },
+        {
+          "id": "realm_district_3",
+          "name": "Bích Hồ Linh Quả",
+          "bounds": [
+            96,
+            96,
+            159,
+            80
+          ]
+        },
+        {
+          "id": "realm_district_4",
+          "name": "Liên Trì",
+          "bounds": [
+            1,
+            176,
+            119,
+            79
+          ]
+        },
+        {
+          "id": "realm_district_5",
+          "name": "Nguồn Linh Mạch",
+          "bounds": [
+            120,
+            176,
+            135,
+            79
+          ]
+        }
+      ],
+      "waterways": [
+        {
+          "kind": "river",
+          "axis": "y",
+          "start": 98,
+          "end": 251,
+          "center": 94,
+          "amplitude": 10,
+          "frequency": 0.038,
+          "width": 3.4
+        },
+        {
+          "kind": "river",
+          "axis": "x",
+          "start": 102,
+          "end": 251,
+          "center": 181,
+          "amplitude": 11,
+          "frequency": 0.03,
+          "width": 3.3
+        },
+        {
+          "kind": "pond",
+          "center": [
+            202,
+            65
+          ],
+          "radii": [
+            19,
+            15
+          ]
+        },
+        {
+          "kind": "pond",
+          "center": [
+            48,
+            223
+          ],
+          "radii": [
+            18,
+            13
+          ]
+        }
+      ]
+    }
+  }
+}

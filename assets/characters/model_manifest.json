@@ -1,0 +1,109 @@
+{
+  "engine": "4.7.2-stable (official)",
+  "generator": "tools/export_character_models.gd",
+  "models": [
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "body": "male",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_male_sword.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 18,
+      "scene": "res://assets/characters/gu_male_sword.tscn",
+      "triangles": 31448,
+      "weapon": "sword"
+    },
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "body": "male",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_male_spear.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 17,
+      "scene": "res://assets/characters/gu_male_spear.tscn",
+      "triangles": 31292,
+      "weapon": "spear"
+    },
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "male",
+        "hair": "topknot",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "body": "male",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_male_unarmed.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 16,
+      "scene": "res://assets/characters/gu_male_unarmed.tscn",
+      "triangles": 30016,
+      "weapon": "unarmed"
+    },
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "jade",
+        "weapon": "sword"
+      },
+      "body": "female",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_female_sword.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 18,
+      "scene": "res://assets/characters/gu_female_sword.tscn",
+      "triangles": 32428,
+      "weapon": "sword"
+    },
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "crimson",
+        "weapon": "spear"
+      },
+      "body": "female",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_female_spear.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 17,
+      "scene": "res://assets/characters/gu_female_spear.tscn",
+      "triangles": 32272,
+      "weapon": "spear"
+    },
+    {
+      "animations_including_reset": 12,
+      "appearance": {
+        "body": "female",
+        "hair": "ponytail",
+        "outfit": "ivory",
+        "weapon": "unarmed"
+      },
+      "body": "female",
+      "bones": 22,
+      "glb": "res://assets/characters/gu_female_unarmed.glb",
+      "gltf_roundtrip_bones": 22,
+      "material_surfaces": 16,
+      "scene": "res://assets/characters/gu_female_unarmed.tscn",
+      "triangles": 30996,
+      "weapon": "unarmed"
+    }
+  ],
+  "origin": "Original generated geometry; no third-party character assets"
+}

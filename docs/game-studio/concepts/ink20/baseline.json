@@ -1,0 +1,24 @@
+{
+  "phase": "concept-only",
+  "approval": "pending",
+  "runtime_files": 497,
+  "runtime_sha256_before": "1987c7290736d6ee82f35e80481010b5e7e060ee6b38303f27a7fc035ddb54fa",
+  "runtime_before": "ink19",
+  "runtime_sha256_after": "1987c7290736d6ee82f35e80481010b5e7e060ee6b38303f27a7fc035ddb54fa",
+  "runtime_unchanged": true,
+  "image_generation_tool": "built-in image_gen.imagegen",
+  "images": {
+    "character-concept-01.png": {
+      "width": 1586,
+      "height": 992,
+      "bytes": 3006533,
+      "sha256": "20432dfcdff4b38f93c5ddd55649e6c5de0d68c56bee2d963d16a2747d80d7ce"
+    },
+    "ui-concept-01.png": {
+      "width": 1586,
+      "height": 992,
+      "bytes": 3126740,
+      "sha256": "5e773390b51140822f28c9a87bbb35e54a1c796110cf9d9f00a3da3dee019c32"
+    }
+  }
+}

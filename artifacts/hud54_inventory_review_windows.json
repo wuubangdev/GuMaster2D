@@ -1,0 +1,213 @@
+{
+  "captures": [
+    "res://artifacts/hud54_inventory_information_1280.png",
+    "res://artifacts/hud54_inventory_food_1280.png",
+    "res://artifacts/hud54_inventory_craft_1280.png",
+    "res://artifacts/hud54_inventory_craft_960.png",
+    "res://artifacts/hud54_inventory_craft_1920.png",
+    "res://artifacts/hud54_inventory_seal_recipe_1280.png",
+    "res://artifacts/hud54_inventory_delete_1280.png",
+    "res://artifacts/hud54_inventory_context_1280.png"
+  ],
+  "checks": [
+    {
+      "name": "Tab opens real inventory and item inspector",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot information_1280",
+      "passed": true
+    },
+    {
+      "name": "Real mouse movement starts an inventory drag",
+      "passed": true
+    },
+    {
+      "name": "Real drag places the selected Cổ in an empty slot without consuming items",
+      "passed": true
+    },
+    {
+      "name": "Real mouse movement starts an inventory drag",
+      "passed": true
+    },
+    {
+      "name": "Real drag swaps occupied slots",
+      "passed": true
+    },
+    {
+      "name": "Dragged layout survives profile data roundtrip",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:meat:0",
+      "passed": true
+    },
+    {
+      "name": "Food inspector exposes an explicit Cổ target selector",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot food_1280",
+      "passed": true
+    },
+    {
+      "name": "Use feeds exactly the chosen Cổ",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects gu:gu_5",
+      "passed": true
+    },
+    {
+      "name": "Right click exposes reserve Cổ actions",
+      "passed": true
+    },
+    {
+      "name": "Right-click upgrade action opens the exact selected reserve Cổ",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:egg:0",
+      "passed": true
+    },
+    {
+      "name": "Craft drawer shows a usable recipe and its output",
+      "passed": true
+    },
+    {
+      "name": "Craft controls are visible and fit at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Craft drawer shows owned/required amounts at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot craft_1280",
+      "passed": true
+    },
+    {
+      "name": "Craft controls are visible and fit at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Craft drawer shows owned/required amounts at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot craft_960",
+      "passed": true
+    },
+    {
+      "name": "Craft controls are visible and fit at (1920, 1080)",
+      "passed": true
+    },
+    {
+      "name": "Craft drawer shows owned/required amounts at (1920, 1080)",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot craft_1920",
+      "passed": true
+    },
+    {
+      "name": "Craft button executes an exact two-batch authority transaction",
+      "passed": true
+    },
+    {
+      "name": "Crafting displays a success receipt",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:hide:0",
+      "passed": true
+    },
+    {
+      "name": "A second recipe shows currency and material costs",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot seal_recipe_1280",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:pollen:0",
+      "passed": true
+    },
+    {
+      "name": "Delete opens a named quantity confirmation",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot delete_1280",
+      "passed": true
+    },
+    {
+      "name": "Escape cancels deletion while keeping the bag open",
+      "passed": true
+    },
+    {
+      "name": "Inventory changes invalidate an old deletion confirmation",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:pollen:0",
+      "passed": true
+    },
+    {
+      "name": "Confirmed deletion removes only the selected material stack",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects gu:gu_1",
+      "passed": true
+    },
+    {
+      "name": "Equipped Cổ deletion remains disabled in the inspector",
+      "passed": true
+    },
+    {
+      "name": "Equipped Cổ deletion remains disabled in right-click menu",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot context_1280",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:seal:0",
+      "passed": true
+    },
+    {
+      "name": "Using a seal without a target reports a failure and preserves inventory",
+      "passed": true
+    },
+    {
+      "name": "A valid seal use consumes exactly one seal, starts capture, and returns to the world",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects material:herb_seed:0",
+      "passed": true
+    },
+    {
+      "name": "Seed use opens planting controls without consuming a seed before planting",
+      "passed": true
+    },
+    {
+      "name": "Real item click selects gu:gu_1",
+      "passed": true
+    },
+    {
+      "name": "Context menu clamps to viewport edges",
+      "passed": true
+    },
+    {
+      "name": "Closing the bag clears its transient menus",
+      "passed": true
+    }
+  ],
+  "failed": 0,
+  "passed": 49,
+  "platform": "Windows"
+}

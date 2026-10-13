@@ -1,0 +1,279 @@
+{
+  "version": 2,
+  "species": {
+    "wolf": {
+      "name": "Sói rừng",
+      "shape": "wolf",
+      "hp": 160,
+      "speed": 1.7,
+      "damage": 14,
+      "style": "melee",
+      "range": 1.15,
+      "windup": 0.7,
+      "recovery": 1.5,
+      "respawn": 30,
+      "level": 2,
+      "color": "869c73",
+      "loot": {
+        "meat": 2,
+        "seal": 1
+      },
+      "xp": 40,
+      "silver": 14,
+      "gu": "GU-01",
+      "abilities": [
+        {
+          "name": "Lang nha",
+          "style": "melee"
+        },
+        {
+          "name": "Trảo phong",
+          "style": "cone",
+          "half_angle": 0.9
+        }
+      ]
+    },
+    "boar": {
+      "name": "Hắc mao trư",
+      "shape": "boar",
+      "hp": 210,
+      "speed": 1.2,
+      "damage": 22,
+      "style": "charge",
+      "range": 3.2,
+      "windup": 1.1,
+      "recovery": 2.2,
+      "respawn": 38,
+      "level": 3,
+      "color": "8e7357",
+      "loot": {
+        "hide": 2,
+        "meat": 2
+      },
+      "xp": 48,
+      "silver": 17,
+      "gu": "GU-07",
+      "abilities": [
+        {
+          "name": "Hắc mao xung",
+          "style": "charge",
+          "radius": 0.72
+        },
+        {
+          "name": "Dậm địa",
+          "style": "stomp",
+          "range": 1.5,
+          "radius": 1.5
+        }
+      ]
+    },
+    "spider": {
+      "name": "Độc ti nhện",
+      "shape": "spider",
+      "hp": 145,
+      "speed": 1.65,
+      "damage": 18,
+      "style": "spit",
+      "range": 3.7,
+      "windup": 1.0,
+      "recovery": 2.0,
+      "respawn": 34,
+      "level": 3,
+      "color": "7f6a88",
+      "loot": {
+        "venom": 1,
+        "silk": 1
+      },
+      "xp": 42,
+      "silver": 16,
+      "gu": "GU-07",
+      "abilities": [
+        {
+          "name": "Độc ti",
+          "style": "spit",
+          "radius": 1.05
+        },
+        {
+          "name": "Tam độc ti",
+          "style": "burst",
+          "radius": 0.72
+        }
+      ]
+    },
+    "hornet": {
+      "name": "Kim châm phong",
+      "shape": "hornet",
+      "hp": 125,
+      "speed": 2.2,
+      "damage": 12,
+      "style": "melee",
+      "range": 1.2,
+      "windup": 0.55,
+      "recovery": 1.2,
+      "respawn": 28,
+      "level": 2,
+      "color": "b59c53",
+      "loot": {
+        "nectar": 2,
+        "pollen": 1
+      },
+      "xp": 36,
+      "silver": 12,
+      "gu": "GU-05",
+      "abilities": [
+        {
+          "name": "Kim châm",
+          "style": "cone",
+          "half_angle": 0.48,
+          "range": 2.2
+        },
+        {
+          "name": "Phong thích",
+          "style": "melee"
+        }
+      ]
+    },
+    "toad": {
+      "name": "Đầm độc thiềm",
+      "shape": "toad",
+      "hp": 240,
+      "speed": 0.95,
+      "damage": 24,
+      "style": "spit",
+      "range": 4.0,
+      "windup": 1.25,
+      "recovery": 2.4,
+      "respawn": 40,
+      "level": 4,
+      "color": "719b85",
+      "loot": {
+        "venom": 2,
+        "herb": 2
+      },
+      "xp": 55,
+      "silver": 20,
+      "gu": "GU-07",
+      "abilities": [
+        {
+          "name": "Độc đàm",
+          "style": "spit",
+          "radius": 1.05
+        },
+        {
+          "name": "Thiềm tức",
+          "style": "cone",
+          "half_angle": 0.62
+        }
+      ]
+    },
+    "beetle": {
+      "name": "Thạch giáp trùng",
+      "shape": "beetle",
+      "hp": 290,
+      "speed": 1.0,
+      "damage": 24,
+      "style": "charge",
+      "range": 3.0,
+      "windup": 1.2,
+      "recovery": 2.5,
+      "respawn": 45,
+      "level": 5,
+      "color": "93896e",
+      "loot": {
+        "ore": 2,
+        "stone": 2,
+        "relic": 1
+      },
+      "xp": 65,
+      "silver": 24,
+      "gu": "GU-07",
+      "abilities": [
+        {
+          "name": "Thạch giáp xung",
+          "style": "charge",
+          "radius": 0.72
+        },
+        {
+          "name": "Liệt địa",
+          "style": "stomp",
+          "range": 1.75,
+          "radius": 1.75
+        }
+      ]
+    },
+    "lightning_wolf": {
+      "name": "Bách thú vương • Điện lang",
+      "shape": "wolf",
+      "hp": 620,
+      "speed": 2.0,
+      "damage": 38,
+      "style": "charge",
+      "range": 4.2,
+      "windup": 1.25,
+      "recovery": 2.2,
+      "respawn": 120,
+      "level": 7,
+      "color": "b4c6b6",
+      "loot": {
+        "fang": 3,
+        "essence": 3,
+        "stone": 5,
+        "meat": 4
+      },
+      "xp": 180,
+      "silver": 70,
+      "gu": "GU-01",
+      "elite": true,
+      "abilities": [
+        {
+          "name": "Lôi lang xung",
+          "style": "charge",
+          "radius": 0.72
+        },
+        {
+          "name": "Lôi trảo",
+          "style": "cone",
+          "half_angle": 0.8,
+          "range": 2.6
+        }
+      ]
+    },
+    "guardian": {
+      "name": "Thủ vệ truyền thừa",
+      "shape": "beetle",
+      "hp": 780,
+      "speed": 1.15,
+      "damage": 42,
+      "style": "spit",
+      "range": 4.5,
+      "windup": 1.5,
+      "recovery": 2.6,
+      "respawn": 150,
+      "level": 9,
+      "color": "94a8a0",
+      "loot": {
+        "relic": 3,
+        "essence": 4,
+        "ore": 4,
+        "silk": 2
+      },
+      "xp": 220,
+      "silver": 90,
+      "gu": "GU-03",
+      "elite": true,
+      "abilities": [
+        {
+          "name": "Tam ấn địa mạch",
+          "style": "burst",
+          "radius": 0.95
+        },
+        {
+          "name": "Chấn địa",
+          "style": "stomp",
+          "range": 2.3,
+          "radius": 2.3
+        }
+      ]
+    }
+  }
+}

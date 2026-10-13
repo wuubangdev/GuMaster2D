@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 100 100"><g stroke="#292e2b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<!-- Bach Ngoc: articulated jade scarab with overlapping armor scales. -->
+<path d="M34 40L24 32L18 35M33 50L19 47L14 53M35 64L22 68L20 77M66 40L76 32L82 35M67 50L81 47L86 53M65 64L78 68L80 77" fill="none" stroke="#a39671" stroke-width="5"/>
+<path d="M34 40L24 32L18 35M33 50L19 47L14 53M35 64L22 68L20 77M66 40L76 32L82 35M67 50L81 47L86 53M65 64L78 68L80 77" fill="none" stroke-width="1.5"/>
+<path d="M41 26L35 18L37 10Q41 13 44 19L50 23L56 19Q59 13 63 10L65 18L59 26" fill="#c5ba91"/>
+<path d="M40 27Q50 18 60 27L61 36H39Z" fill="#698071"/>
+<path d="M38 34Q50 28 62 34Q76 44 72 61Q68 78 50 87Q32 78 28 61Q24 44 38 34Z" fill="#a9b6a1"/>
+<path d="M50 34Q64 35 69 47Q73 65 50 82Z" fill="#e0ddbd"/>
+<path d="M50 34Q36 35 31 47Q27 65 50 82Z" fill="#acb9a0"/>
+<path d="M50 38L50 80M31 50Q40 44 49 47M69 50Q60 44 51 47M34 65Q40 60 49 63M66 65Q60 60 51 63" fill="none" stroke="#657764" stroke-width="1.4"/>
+<path d="M36 41Q34 44 33 48M61 41L64 46M61 71L54 78" fill="none" stroke="#f0e5c5" stroke-width="2.7"/>
+<path d="M50 39L56 46L50 56L44 46Z" fill="#738a75"/>
+<path d="M50 41L52 46L50 51" fill="none" stroke="#e8d9a8"/>
+<path d="M41 28L44 29M56 29L59 28" stroke="#292e2b" stroke-width="2.7"/>
+</g></svg>

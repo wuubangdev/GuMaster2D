@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs>
+<linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ddd0bf"/><stop offset=".30" stop-color="#f7eee1"/><stop offset=".70" stop-color="#f8eee3"/><stop offset="1" stop-color="#e6d6c8"/></linearGradient>
+<radialGradient id="cheek"><stop stop-color="#cc8e85" stop-opacity=".23"/><stop offset="1" stop-color="#d99489" stop-opacity="0"/></radialGradient>
+<radialGradient id="socket"><stop stop-color="#967f78" stop-opacity=".16"/><stop offset="1" stop-color="#967f78" stop-opacity="0"/></radialGradient>
+</defs><rect width="512" height="512" fill="url(#skin)"/>
+<ellipse cx="216" cy="186" rx="24" ry="27" fill="url(#cheek)"/><ellipse cx="296" cy="186" rx="24" ry="27" fill="url(#cheek)"/>
+<ellipse cx="222" cy="250" rx="23" ry="12" fill="url(#socket)"/><ellipse cx="290" cy="250" rx="23" ry="12" fill="url(#socket)"/></svg>

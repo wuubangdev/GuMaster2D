@@ -1,0 +1,274 @@
+{
+  "captures": [
+    "res://artifacts/gu52_missing_1280.png",
+    "res://artifacts/gu52_upgrade_moon_1280.png",
+    "res://artifacts/gu52_upgrade_shield_1280.png",
+    "res://artifacts/gu52_upgrade_dash_1280.png",
+    "res://artifacts/gu52_upgrade_frost_1280.png",
+    "res://artifacts/gu52_upgrade_1280.png",
+    "res://artifacts/gu52_upgrade_960.png",
+    "res://artifacts/gu52_upgrade_1920.png",
+    "res://artifacts/gu52_success_1280.png",
+    "res://artifacts/gu52_fusion_1280.png",
+    "res://artifacts/gu52_fusion_960.png",
+    "res://artifacts/gu52_confirm_1280.png",
+    "res://artifacts/gu52_fusion_success_1280.png",
+    "res://artifacts/gu52_maximum_1280.png"
+  ],
+  "checks": [
+    {
+      "name": "G opens the real workshop with all equipped Gu",
+      "passed": true
+    },
+    {
+      "name": "Unavailable materials disable enhancement with a visible explanation",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot missing_1280",
+      "passed": true
+    },
+    {
+      "name": "Real list click selects gu_1",
+      "passed": true
+    },
+    {
+      "name": "Selected Gu shows a ready level-two comparison",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_moon_1280",
+      "passed": true
+    },
+    {
+      "name": "Real list click selects gu_2",
+      "passed": true
+    },
+    {
+      "name": "Selected Gu shows a ready level-two comparison",
+      "passed": true
+    },
+    {
+      "name": "Shield comparison respects the actual eighty-point cap",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_shield_1280",
+      "passed": true
+    },
+    {
+      "name": "Real list click selects gu_3",
+      "passed": true
+    },
+    {
+      "name": "Selected Gu shows a ready level-two comparison",
+      "passed": true
+    },
+    {
+      "name": "Dash comparison shows its actual shorter cooldown",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_dash_1280",
+      "passed": true
+    },
+    {
+      "name": "Real list click selects gu_4",
+      "passed": true
+    },
+    {
+      "name": "Selected Gu shows a ready level-two comparison",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_frost_1280",
+      "passed": true
+    },
+    {
+      "name": "Workshop stays inside viewport at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Primary enhancement action remains visible at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Owned and required material/currency amounts remain readable",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_1280",
+      "passed": true
+    },
+    {
+      "name": "Workshop stays inside viewport at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Primary enhancement action remains visible at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Owned and required material/currency amounts remain readable",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_960",
+      "passed": true
+    },
+    {
+      "name": "Workshop stays inside viewport at (1920, 1080)",
+      "passed": true
+    },
+    {
+      "name": "Primary enhancement action remains visible at (1920, 1080)",
+      "passed": true
+    },
+    {
+      "name": "Owned and required material/currency amounts remain readable",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot upgrade_1920",
+      "passed": true
+    },
+    {
+      "name": "Actual enhancement click pays one exact upgrade",
+      "passed": true
+    },
+    {
+      "name": "Enhancement updates current/next level and shows its real outcome",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot success_1280",
+      "passed": true
+    },
+    {
+      "name": "Fusion shows all reserve Gu and requires an explicit donor",
+      "passed": true
+    },
+    {
+      "name": "Native donor picker chooses the requested specific reserve Gu",
+      "passed": true
+    },
+    {
+      "name": "Fusion action and chosen donor fit at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Donor caption is readable without wrapping into vertical letters at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Fusion comparison and donor are visible together at (1280, 800)",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot fusion_1280",
+      "passed": true
+    },
+    {
+      "name": "Fusion action and chosen donor fit at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Donor caption is readable without wrapping into vertical letters at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Fusion comparison and donor are visible together at (960, 640)",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot fusion_960",
+      "passed": true
+    },
+    {
+      "name": "Fusion confirmation names the exact donor and its level",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot confirm_1280",
+      "passed": true
+    },
+    {
+      "name": "Escape cancels fusion without consuming its donor or currency",
+      "passed": true
+    },
+    {
+      "name": "A stale fusion confirmation is rejected atomically",
+      "passed": true
+    },
+    {
+      "name": "Confirmed fusion consumes only the chosen donor and preserves the equipped skill",
+      "passed": true
+    },
+    {
+      "name": "Fusion refreshes the Gu list, result and equipped hotbar rank",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot fusion_success_1280",
+      "passed": true
+    },
+    {
+      "name": "Maximum rank has no misleading next rank or costs",
+      "passed": true
+    },
+    {
+      "name": "Native screenshot maximum_1280",
+      "passed": true
+    },
+    {
+      "name": "Maximum enhancement is clearly disabled",
+      "passed": true
+    },
+    {
+      "name": "Combat state disables enhancement and explains why",
+      "passed": true
+    },
+    {
+      "name": "Dead state disables enhancement",
+      "passed": true
+    },
+    {
+      "name": "Opening or starting capture disables progression immediately",
+      "passed": true
+    },
+    {
+      "name": "Finishing capture restores progression availability without another inventory change",
+      "passed": true
+    },
+    {
+      "name": "Live refresh retains the controls rather than replacing the whole workshop",
+      "passed": true
+    },
+    {
+      "name": "A real upgrade starts the brief portrait success feedback",
+      "passed": true
+    },
+    {
+      "name": "Reduced motion immediately stops portrait effects while retaining the outcome",
+      "passed": true
+    },
+    {
+      "name": "Opening a distant reserve Gu automatically scrolls its selected row into view",
+      "passed": true
+    },
+    {
+      "name": "Escape closes the workshop and clears its transient dialogs",
+      "passed": true
+    },
+    {
+      "name": "Travel still uses its existing atlas page",
+      "passed": true
+    },
+    {
+      "name": "Farm still uses its existing page",
+      "passed": true
+    }
+  ],
+  "failed": 0,
+  "passed": 63
+}

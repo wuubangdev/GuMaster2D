@@ -1,0 +1,713 @@
+{
+  "version": 1,
+  "npcs": {
+    "lam_an": {
+      "name": "Lâm An",
+      "role": "Người giữ trại",
+      "region": "forest",
+      "cell": [
+        10,
+        19
+      ],
+      "facing": [
+        1,
+        1
+      ],
+      "appearance": {
+        "body": "male",
+        "outfit": "ivory",
+        "weapon": "unarmed",
+        "hair": "topknot",
+        "boots": "cloth",
+        "hat": "sect"
+      },
+      "greeting": "Đường vào Cổ giới không bắt đầu bằng một trận thắng. Trước hết, hãy biết nơi mình có thể trở về. Trại ngọc này sẽ giữ lửa cho con.",
+      "farewell": "Đi vững từng bước. Đừng quên đường về dưới đèn.",
+      "topics": [
+        {
+          "label": "Tôi nên bắt đầu từ đâu?",
+          "text": "Gặp Yên Chi ở góc dược liệu phía đông nam trại. Sau đó thử sức với sói ngoài vòng an toàn. WASD để đi, Shift để chạy; chọn sói rồi dùng 1 hoặc 4. Trở lại đây khi cần hồi phục."
+        },
+        {
+          "label": "Cổ trận dẫn đến đâu?",
+          "text": "Hạ một con sói, đường đến Tam Vương Cổ Địa sẽ mở. Đứng ở trại hoặc cổ trận và mở Địa đồ [T]. Thẩm Nghi đang lần theo một ấn Thanh Nang ở đó."
+        }
+      ]
+    },
+    "yen_chi": {
+      "name": "Yên Chi",
+      "role": "Dược sư của trại",
+      "region": "forest",
+      "cell": [
+        13,
+        22
+      ],
+      "facing": [
+        -1,
+        -1
+      ],
+      "appearance": {
+        "body": "female",
+        "outfit": "crimson",
+        "weapon": "unarmed",
+        "hair": "ponytail",
+        "boots": "cloth",
+        "hat": "none"
+      },
+      "greeting": "Lâm An lại gửi người mới đến à? Đặt vũ khí xuống đã. Cổ trùng biết đói, và Cổ sư cũng cần học cách chăm thứ sức mạnh mình mang theo.",
+      "farewell": "Mang theo thức ăn cho Cổ. Sức mạnh không tự lớn lên đâu.",
+      "topics": [
+        {
+          "label": "Cho Cổ ăn như thế nào?",
+          "text": "Mở Hành trang [Tab], chọn một Cổ chưa no và bấm Cho ăn. Nguyệt Quang ăn thịt, Bạch Ngọc ăn nguyên thạch, Bạch Hạc ăn linh quả, Băng Tằm ăn mật hoa. Cổ đang khảm sẽ đói dần khi con đi đường."
+        },
+        {
+          "label": "Làm sao thu phục Cổ?",
+          "text": "Hạ sinh lực sói xuống không quá ba phần mười, đến trong ba ô rồi nhấn C. Đứng yên trong lúc phong ấn. Nếu thất bại, giữ khoảng cách và thử lại; mỗi lần tốn một phong ấn."
+        }
+      ]
+    },
+    "tham_nghi": {
+      "name": "Thẩm Nghi",
+      "role": "Người giữ cổ trận",
+      "region": "ruins",
+      "cell": [
+        9,
+        20
+      ],
+      "facing": [
+        1,
+        -1
+      ],
+      "appearance": {
+        "body": "male",
+        "outfit": "crimson",
+        "weapon": "unarmed",
+        "hair": "ponytail",
+        "boots": "leather",
+        "hat": "bamboo"
+      },
+      "greeting": "Những vết nứt này không phải do năm tháng. Có người từng khép cả một tiểu thế giới vào cổ trận, rồi để nó quên mất tên mình. Ta gọi dấu tích ấy là Thanh Nang.",
+      "farewell": "Nếu thấy một khu vườn sau màn sương, hãy tìm Mộc Miên.",
+      "topics": [
+        {
+          "label": "Phục hồi Thanh Nang thế nào?",
+          "text": "Sói cổ trận giữ những mảnh cổ tinh. Gom hai mảnh, hạ tổng cộng ba sói, rồi đến bàn tế giữa Tam Vương Cổ Địa. Mở Địa đồ [T] và chọn Phục hồi. Cổ trận nằm phía bắc, theo con đường đá."
+        },
+        {
+          "label": "Vì sao sói giữ cổ tinh?",
+          "text": "Linh khí rò qua những vết nứt, bám vào sinh linh quanh đây. Khi thu hồi cổ tinh, chúng ta nối lại mạch khí của bí cảnh. Đừng tiêu hết trước khi mở cánh cửa đầu tiên."
+        }
+      ]
+    },
+    "moc_mien": {
+      "name": "Mộc Miên",
+      "role": "Người chăm linh điền",
+      "region": "realm",
+      "cell": [
+        16,
+        21
+      ],
+      "facing": [
+        -1,
+        -1
+      ],
+      "appearance": {
+        "body": "female",
+        "outfit": "ivory",
+        "weapon": "unarmed",
+        "hair": "topknot",
+        "boots": "cloth",
+        "hat": "bamboo"
+      },
+      "greeting": "Cuối cùng cũng có tiếng bước chân. Đất vẫn nhớ mùa cũ, chỉ thiếu người gieo hạt. Ta giữ lại sáu luống và hai chuồng — phần còn lại, chúng mình cùng làm.",
+      "farewell": "Linh mạch lớn từ những việc nhỏ. Nhớ quay lại khi cây chín.",
+      "topics": [
+        {
+          "label": "Chăm một luống đất thế nào?",
+          "text": "Mở Bí cảnh [H], chọn ô trống để gieo hạt rồi tưới nước. Cây chỉ lớn sau khi tưới. Khi chín, thu sản vật và nhận lại một hạt. Đứng gần luống rồi nhấn E cũng có thể tưới hoặc thu."
+        },
+        {
+          "label": "Tơ và trứng giúp luyện Cổ ra sao?",
+          "text": "Linh tằm ăn linh quả và nhả tơ dùng để hợp thành. Linh kê cho trứng; đổi hai trứng lấy ba nguyên thạch trong bảng Bí cảnh. Mở Bảng Cổ [G] để xem đủ nguyên liệu trước khi luyện."
+        }
+      ]
+    },
+    "trac_su": {
+      "name": "Trác Sơn",
+      "role": "Thợ săn của trại",
+      "region": "forest",
+      "cell": [
+        35,
+        33
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "appearance": {
+        "body": "male",
+        "outfit": "jade",
+        "weapon": "unarmed",
+        "hair": "topknot",
+        "boots": "cloth",
+        "hat": "sect"
+      },
+      "greeting": "Lợi ích của trại nằm trong từng bao lương thực. Sói chiếm đường, lợn phá rẫy, còn điện lang trên đỉnh khiến cả đàn bất an. Ta trả công cho kết quả, không trả công cho lời hứa.",
+      "farewell": "Giữ lại đường trở về.",
+      "topics": [
+        {
+          "label": "Bãi nào hợp sức của tôi?",
+          "text": "Rừng trúc phía đông có sói thường; dốc phía đông bắc có lợn lao thẳng. Điện lang ở tận đông nam là đầu lĩnh. Dùng T xem đường, tài nguyên và điểm dừng trước khi đi."
+        },
+        {
+          "label": "Vì sao lang triều kéo xuống?",
+          "text": "Khi con đầu đàn đổi nơi săn, cả núi chuyển động. Nhưng lần này có vết cổ trận dưới móng chúng. Hạ điện lang rồi đem dấu vết cho Thẩm Nghi; có lẽ cơn đói không phải nguyên nhân duy nhất."
+        }
+      ]
+    },
+    "hac_thuong": {
+      "name": "Hạc Thương",
+      "role": "Chấp sự thương đội",
+      "region": "ruins",
+      "cell": [
+        41,
+        44
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "appearance": {
+        "body": "male",
+        "outfit": "crimson",
+        "weapon": "unarmed",
+        "hair": "topknot",
+        "boots": "cloth",
+        "hat": "bamboo"
+      },
+      "greeting": "Một tàn quyển không nuôi nổi ai, cho đến khi có người hiểu công thức trong đó. Ta thu khoáng, đổi vật tư và giữ đường rút. Cậu chọn học truyền thừa hay bán chiến lợi phẩm đều được.",
+      "farewell": "Giữ lại đường trở về.",
+      "topics": [
+        {
+          "label": "Lấy tàn quyển ở đâu?",
+          "text": "Giáp trùng ở Mỏ Nguyên Thạch và Sân Thạch Điện giữ mảnh đá khắc chữ. Chúng chậm nhưng giáp dày. Trước khi trả nhiệm vụ giao vật liệu, kiểm tra số sẽ tiêu hao trong nhật ký."
+        },
+        {
+          "label": "Phúc địa có phải tự tạo ra?",
+          "text": "Cổ sư ở đây chỉ mở lại cửa một phúc địa bỏ hoang. Đó là di sản cần nuôi dưỡng, không phải tu vi tiên nhân tự nhiên xuất hiện. Thu hoạch rồi phải gieo lại; rút cạn linh mạch thì cửa cũng tắt."
+        }
+      ]
+    },
+    "linh_nha": {
+      "name": "Linh Nha",
+      "role": "Người giữ linh mạch",
+      "region": "realm",
+      "cell": [
+        47,
+        48
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "appearance": {
+        "body": "female",
+        "outfit": "ivory",
+        "weapon": "unarmed",
+        "hair": "topknot",
+        "boots": "cloth",
+        "hat": "none"
+      },
+      "greeting": "Ruộng gần cửa vẫn được giữ yên, nhưng vùng hoang đã đổi khác. Nước đi qua trận nhãn mang theo khí đục. Muốn giữ mùa vụ, trước hết phải biết dòng nước đến từ đâu.",
+      "farewell": "Giữ lại đường trở về.",
+      "topics": [
+        {
+          "label": "Vùng nào còn an toàn?",
+          "text": "Khu điền viên quanh cửa và các trạm dừng là vùng an toàn. Qua rừng hoa, hồ sâu và trận nhãn, linh thú vẫn tấn công. Đừng dẫn chúng về ruộng; chúng sẽ quay lại bãi khi chạm ranh giới bảo hộ."
+        },
+        {
+          "label": "Vì sao cần chăm phúc địa?",
+          "text": "Mỗi loại cây và thú lấy một phần linh khí rồi trả lại tài nguyên khác. Ta có thể khơi mương tưới cho cả ruộng khi trận nhãn được thanh lọc. Đó là phần thưởng bền hơn một rương bạc."
+        }
+      ]
+    }
+  },
+  "quests": [
+    {
+      "id": "arrival",
+      "title": "Lời dặn dưới đèn",
+      "giver": "lam_an",
+      "turn_in": "lam_an",
+      "requires": [],
+      "description": "Lâm An muốn bạn làm quen người giữ thuốc của trại. Hãy tìm Yên Chi ở góc dược liệu phía đông nam, nghe lời dặn rồi trở lại.",
+      "objective": "Trò chuyện với Yên Chi",
+      "metric": "talk_yen_chi",
+      "goal": 1,
+      "destination": "yen_chi",
+      "offer": "Trước khi rời trại, con hãy gặp Yên Chi. Cô ấy biết cách giữ Cổ trùng khoẻ mạnh. Nói với cô ấy rằng ta gửi con đến.",
+      "complete": "Tốt. Biết chăm Cổ rồi mới học cách dùng Cổ. Nhận ít lương thực này; lối ra rừng đang chờ con.",
+      "reward": {
+        "silver": 35,
+        "xp": 15,
+        "meat": 2
+      },
+      "category": "main",
+      "chapter": 1
+    },
+    {
+      "id": "path_guard",
+      "title": "Giữ lối về trại",
+      "giver": "lam_an",
+      "turn_in": "lam_an",
+      "requires": [
+        "arrival"
+      ],
+      "description": "Sói đã đến gần con đường dẫn vào trại. Vận dụng Nguyệt Quang và Băng Tằm, hạ hai con sói rồi báo lại Lâm An.",
+      "objective": "Hạ sói ngoài trại",
+      "metric": "kills",
+      "goal": 2,
+      "destination": "lam_an",
+      "offer": "Ta không cần con đuổi theo cả đàn. Hạ hai con sói chặn lối, rồi trở về bình an. Nhớ dùng khiên và lướt khi chúng chuẩn bị vồ.",
+      "complete": "Đường về đã yên hơn. Con có thể theo cổ trận đến Tam Vương Cổ Địa, tìm Thẩm Nghi để hỏi về dấu ấn Thanh Nang.",
+      "reward": {
+        "silver": 50,
+        "xp": 30,
+        "stone": 2,
+        "seal": 2
+      },
+      "category": "main",
+      "chapter": 1
+    },
+    {
+      "id": "first_feed",
+      "title": "Cổ cũng cần bữa ăn",
+      "giver": "yen_chi",
+      "turn_in": "yen_chi",
+      "requires": [
+        "arrival"
+      ],
+      "description": "Yên Chi muốn thấy bạn chăm sóc Cổ đang khảm. Mở hành trang, chọn một Cổ chưa no và dùng đúng thức ăn.",
+      "objective": "Cho một Cổ ăn",
+      "metric": "feeds",
+      "goal": 1,
+      "destination": "yen_chi",
+      "offer": "Đừng chỉ nhớ đến Cổ trùng khi đánh nhau. Cho một Cổ đang đói ăn, rồi quay lại kể ta nghe. Nếu tất cả đều no, chúng sẽ đói dần khi con đi đường.",
+      "complete": "Nhìn ánh linh quang ấy xem — Cổ đã nhận ra bàn tay chăm nó. Đây là chút mật và linh quả cho chặng đường tới.",
+      "reward": {
+        "silver": 25,
+        "xp": 20,
+        "fruit": 2,
+        "nectar": 2
+      },
+      "category": "side",
+      "chapter": 1
+    },
+    {
+      "id": "lost_seal",
+      "title": "Dấu ấn thất lạc",
+      "giver": "tham_nghi",
+      "turn_in": "moc_mien",
+      "requires": [
+        "path_guard"
+      ],
+      "description": "Phục hồi cổ trận trung tâm Tam Vương Cổ Địa bằng hai cổ tinh sau khi hạ tổng ba sói. Đi vào Thanh Nang và trao tin cho Mộc Miên.",
+      "objective": "Mở Thanh Nang Bí Cảnh",
+      "metric": "realm",
+      "goal": 1,
+      "destination": "tham_nghi",
+      "offer": "Hãy trả hai mảnh cổ tinh về bàn tế. Nếu cánh cửa mở, tìm Mộc Miên trong bí cảnh. Nói với cô ấy: linh mạch bên ngoài vẫn còn chảy.",
+      "complete": "Thẩm Nghi vẫn nhớ nơi này sao? Vậy chúng ta chưa mất tất cả. Cầm hạt giống này, cùng ta gieo lại mùa đầu tiên.",
+      "reward": {
+        "silver": 45,
+        "xp": 30,
+        "herb_seed": 1,
+        "fruit_seed": 1,
+        "stone": 2
+      },
+      "category": "main",
+      "chapter": 2
+    },
+    {
+      "id": "first_harvest",
+      "title": "Gieo lại linh mạch",
+      "giver": "moc_mien",
+      "turn_in": "moc_mien",
+      "requires": [
+        "lost_seal"
+      ],
+      "description": "Gieo một luống cây, tưới nước và thu hoạch khi chín. Mỗi vụ mùa sẽ trả lại hạt để tiếp tục trồng.",
+      "objective": "Thu hoạch một luống cây",
+      "metric": "harvests",
+      "goal": 1,
+      "destination": "moc_mien",
+      "offer": "Chọn một luống đất. Linh thảo giúp tu luyện Cổ, linh quả nuôi thú, linh hoa cho mật. Tưới sau khi gieo; đất khô sẽ giữ hạt ngủ mãi.",
+      "complete": "Vụ đầu tiên rồi! Thấy không, sức mạnh của bí cảnh bắt đầu từ một nhành lá. Giờ ta có thể nuôi thêm linh thú.",
+      "reward": {
+        "silver": 45,
+        "xp": 25,
+        "fruit": 3,
+        "herb": 2
+      },
+      "category": "main",
+      "chapter": 2
+    },
+    {
+      "id": "silk_and_gu",
+      "title": "Tơ nuôi Cổ",
+      "giver": "moc_mien",
+      "turn_in": "moc_mien",
+      "requires": [
+        "first_harvest"
+      ],
+      "description": "Chăm linh tằm hoặc linh kê và thu một lượt sản vật; dùng linh thảo, nguyên thạch và bạc để nâng cấp một Cổ tại bảng G.",
+      "objective": "Thu sản vật chăn nuôi và nâng cấp Cổ",
+      "metric": "cultivation_loop",
+      "goal": 2,
+      "destination": "moc_mien",
+      "offer": "Cho một vật nuôi ăn linh quả và đợi sản vật đầu tiên. Sau đó thử tu luyện một Cổ. Con sẽ hiểu vì sao người xưa gọi điền viên là gốc của sức mạnh.",
+      "complete": "Đất nuôi cây, cây nuôi thú, thú nuôi Cổ. Linh mạch Thanh Nang đã có người tiếp nối. Từ đây, hãy tự chọn cách mình trưởng thành.",
+      "reward": {
+        "silver": 60,
+        "xp": 40,
+        "silk": 2,
+        "stone": 3
+      },
+      "category": "side",
+      "chapter": 2
+    },
+    {
+      "id": "bamboo_chart",
+      "title": "Đường qua rừng trúc",
+      "category": "main",
+      "chapter": 1,
+      "giver": "lam_an",
+      "turn_in": "lam_an",
+      "requires": [
+        "arrival"
+      ],
+      "description": "Khám phá Rừng trúc đông. Theo lối ra phía đông trại, dùng T để xem địa đồ và dẫn đường.",
+      "objective": "Khám phá Rừng trúc đông",
+      "metric": "discover",
+      "target": "f_bamboo",
+      "goal": 1,
+      "destination": "lam_an",
+      "offer": "Tông tộc không nuôi Cổ bằng danh tiếng. Muốn đi xa, con cần biết nơi có tài nguyên và nơi có thể trở về. Hãy ghi lại bãi rừng trúc phía đông.",
+      "complete": "Con đã nhìn xa hơn hàng rào. Ta giao quyền dùng các trạm cổ trận nội vùng; trước tiên phải đến trạm để ghi nhận dấu ấn.",
+      "reward": {
+        "silver": 50,
+        "xp": 35,
+        "herb": 3
+      },
+      "unlocks": [
+        "waygates"
+      ]
+    },
+    {
+      "id": "storm_tracks",
+      "title": "Dấu chân trong lang triều",
+      "category": "main",
+      "chapter": 1,
+      "giver": "trac_su",
+      "turn_in": "trac_su",
+      "requires": [
+        "path_guard",
+        "bamboo_chart"
+      ],
+      "description": "Hạ Điện lang tại Đỉnh Lôi Lang. Đầu lĩnh báo hướng trước khi lao; né ngang, dùng khiên và lướt.",
+      "objective": "Hạ Điện lang tại Đỉnh Lôi Lang",
+      "metric": "camp_kills",
+      "target": "f_thunder",
+      "goal": 1,
+      "destination": "trac_su",
+      "offer": "Ta cần biết thứ gì đang đẩy đàn sói xuống trại. Con điện lang ở đỉnh đông nam mang một ấn lạ. Chuẩn bị Cổ rồi mới lên núi.",
+      "complete": "Dấu này giống chữ trên cổ địa. Thẩm Nghi sẽ muốn xem nó. Cầm tài nguyên mà luyện lại Cổ trước khi đi.",
+      "reward": {
+        "silver": 130,
+        "xp": 150,
+        "stone": 8,
+        "herb": 8,
+        "essence": 3
+      }
+    },
+    {
+      "id": "boar_supply",
+      "title": "Lương thực của thương đội",
+      "category": "side",
+      "chapter": 1,
+      "giver": "trac_su",
+      "turn_in": "trac_su",
+      "requires": [
+        "arrival"
+      ],
+      "description": "Giao 4 da thú từ Dốc Hắc Mao. Da thú sẽ bị tiêu hao khi trả nhiệm vụ.",
+      "objective": "Giao 4 da thú từ Dốc Hắc Mao",
+      "metric": "deliver",
+      "target": "f_boars",
+      "goal": 4,
+      "destination": "trac_su",
+      "offer": "Đường hàng thiếu người bảo vệ. Ta cần bốn tấm da lành để bọc vật tư; thịt săn được con cứ giữ lại nuôi Cổ.",
+      "complete": "Thương đội có thể đi tiếp. Phần này là của con — một cuộc đổi chác sòng phẳng.",
+      "reward": {
+        "silver": 85,
+        "xp": 50,
+        "herb_seed": 3,
+        "seal": 4
+      },
+      "delivery": {
+        "hide": 4
+      }
+    },
+    {
+      "id": "honey_trade",
+      "title": "Bữa ăn cho Cổ trùng",
+      "category": "side",
+      "chapter": 1,
+      "giver": "yen_chi",
+      "turn_in": "yen_chi",
+      "requires": [
+        "first_feed"
+      ],
+      "description": "Giao 6 mật linh hoa từ Mật Lâm. Dùng ong hoặc cụm hoa để tìm mật; giữ lại phần Cổ đang cần.",
+      "objective": "Giao 6 mật linh hoa từ Mật Lâm",
+      "metric": "deliver",
+      "target": "f_honey",
+      "goal": 6,
+      "destination": "yen_chi",
+      "offer": "Mỗi con Cổ có một cái giá để sống. Ta đổi hạt và thảo dược lấy sáu phần mật; đừng mang hết thức ăn của Cổ đến cho ta.",
+      "complete": "Nguồn thức ăn ổn định mới giúp Cổ sư đi xa. Trồng hạt này để lần sau không phải chỉ dựa vào săn bắt.",
+      "reward": {
+        "silver": 60,
+        "xp": 40,
+        "flower_seed": 3,
+        "herb": 6
+      },
+      "delivery": {
+        "nectar": 6
+      }
+    },
+    {
+      "id": "broken_script",
+      "title": "Tàn quyển dưới thạch giáp",
+      "category": "main",
+      "chapter": 2,
+      "giver": "tham_nghi",
+      "turn_in": "tham_nghi",
+      "requires": [
+        "storm_tracks"
+      ],
+      "description": "Giao 3 tàn quyển từ Sân Thạch Điện hoặc Mỏ Nguyên Thạch. Tàn quyển sẽ được tiêu hao để giải ấn.",
+      "objective": "Giao 3 tàn quyển từ Sân Thạch Điện hoặc Mỏ Nguyên Thạch",
+      "metric": "deliver",
+      "target": "r_sentinels",
+      "goal": 3,
+      "destination": "tham_nghi",
+      "offer": "Dấu trên điện lang là một mảnh lệnh truyền thừa. Giáp trùng trong thạch điện giữ phần chữ còn lại. Đem ba mảnh về, ta sẽ chỉ ra cửa chính.",
+      "complete": "Những mảnh chữ nói về một thủ vệ giữ kho linh mạch. Qua được nó, con sẽ hiểu vì sao Thanh Nang suy yếu.",
+      "reward": {
+        "silver": 110,
+        "xp": 100,
+        "stone": 6,
+        "silk": 4
+      },
+      "delivery": {
+        "relic": 3
+      }
+    },
+    {
+      "id": "king_guard",
+      "title": "Giá của truyền thừa",
+      "category": "main",
+      "chapter": 2,
+      "giver": "tham_nghi",
+      "turn_in": "tham_nghi",
+      "requires": [
+        "broken_script"
+      ],
+      "description": "Hạ thủ vệ tại Điện Truyền Thừa. Rời vòng báo đòn trước khi ấn nổ.",
+      "objective": "Hạ thủ vệ tại Điện Truyền Thừa",
+      "metric": "camp_kills",
+      "target": "r_guardian",
+      "goal": 1,
+      "destination": "tham_nghi",
+      "offer": "Người để lại truyền thừa không chọn người chỉ biết nhặt của. Hãy vượt thủ vệ ở điện đông nam. Giữ đủ chân nguyên cho đường rút.",
+      "complete": "Cửa kho đã mở. Nhưng tài nguyên lớn nhất nằm ở phúc địa mà nó từng cấp dưỡng. Tìm Linh Nha ở vùng hoang Thanh Nang.",
+      "reward": {
+        "silver": 180,
+        "xp": 200,
+        "essence": 6,
+        "silk": 6,
+        "herb": 10
+      }
+    },
+    {
+      "id": "stone_contract",
+      "title": "Nguyên thạch không miễn phí",
+      "category": "side",
+      "chapter": 2,
+      "giver": "hac_thuong",
+      "turn_in": "hac_thuong",
+      "requires": [
+        "path_guard"
+      ],
+      "description": "Giao 6 khoáng thạch từ Mỏ Nguyên Thạch. Mỗi giáp trùng hoặc mạch khoáng đều có thể cho nguyên liệu.",
+      "objective": "Giao 6 khoáng thạch từ Mỏ Nguyên Thạch",
+      "metric": "deliver",
+      "target": "r_mine",
+      "goal": 6,
+      "destination": "hac_thuong",
+      "offer": "Nguyên thạch giữ chân nguyên cũng giữ giá trị của một lời hứa. Mang sáu phần quặng về, ta đổi thành vật liệu dùng ngay.",
+      "complete": "Khoáng đủ sạch. Ta trả đúng giá, và để dành vài hạt cho người biết nuôi nguồn lợi về sau.",
+      "reward": {
+        "silver": 90,
+        "xp": 60,
+        "stone": 8,
+        "fruit_seed": 2
+      },
+      "delivery": {
+        "ore": 6
+      }
+    },
+    {
+      "id": "antidote",
+      "title": "Dược phương đường xa",
+      "category": "side",
+      "chapter": 2,
+      "giver": "hac_thuong",
+      "turn_in": "hac_thuong",
+      "requires": [
+        "first_feed"
+      ],
+      "description": "Giao 4 độc nang từ Độc Đàm hoặc nhện. Công thức nhận được dùng linh thảo và mật để hồi phục.",
+      "objective": "Giao 4 độc nang từ Độc Đàm hoặc nhện",
+      "metric": "deliver",
+      "target": "r_marsh",
+      "goal": 4,
+      "destination": "hac_thuong",
+      "offer": "Một thứ độc có thể là đầu vào của một phương thuốc. Ta cần bốn độc nang làm mẫu; đổi lại, con sẽ có cách băng bó ngoài trại.",
+      "complete": "Công thức đã được kiểm. Ngoài giao chiến, nhấn R: hai linh thảo và một mật giúp hồi bốn phần mười sinh lực.",
+      "reward": {
+        "silver": 55,
+        "xp": 50,
+        "herb": 8,
+        "nectar": 4
+      },
+      "unlocks": [
+        "field_medicine"
+      ],
+      "delivery": {
+        "venom": 4
+      }
+    },
+    {
+      "id": "living_valley",
+      "title": "Linh mạch dưới rừng hoa",
+      "category": "main",
+      "chapter": 3,
+      "giver": "linh_nha",
+      "turn_in": "linh_nha",
+      "requires": [
+        "king_guard",
+        "first_harvest"
+      ],
+      "description": "Khảo sát Cốc Linh Hoa. Tìm vùng rừng hoa phía đông khu điền viên để lần theo dòng linh khí.",
+      "objective": "Khảo sát Cốc Linh Hoa",
+      "metric": "discover",
+      "target": "b_flowers",
+      "goal": 1,
+      "destination": "linh_nha",
+      "offer": "Cậu đã mở kho của người trước; giờ hãy nhìn thứ giữ kho ấy sống. Rừng hoa phía đông là nơi linh khí bắt đầu đổi màu.",
+      "complete": "Khí đục đi ngược từ trận nhãn. Chúng ta đã biết nơi cần xử lý, không phải chặt sạch cả khu rừng.",
+      "reward": {
+        "silver": 80,
+        "xp": 80,
+        "fruit": 6,
+        "herb": 6
+      }
+    },
+    {
+      "id": "seal_breach",
+      "title": "Khơi lại dòng Thanh Nang",
+      "category": "main",
+      "chapter": 3,
+      "giver": "linh_nha",
+      "turn_in": "linh_nha",
+      "requires": [
+        "living_valley"
+      ],
+      "description": "Hạ thủ vệ ở Trận Nhãn Ô Nhiễm. Sau đó trở lại Linh Nha để khơi mương tưới toàn bộ ruộng.",
+      "objective": "Hạ thủ vệ ở Trận Nhãn Ô Nhiễm",
+      "metric": "camp_kills",
+      "target": "b_core",
+      "goal": 1,
+      "destination": "linh_nha",
+      "offer": "Muốn mùa sau còn thu hoạch, phải trả lại nước sạch cho linh điền. Thủ vệ ở trận nhãn đang giữ khí đục; đừng để đòn ấn giữ chân cậu.",
+      "complete": "Linh mạch đã thông. Từ nay, mở H để tưới mọi luống đã gieo cùng một lần. Phúc địa sẽ nuôi Cổ sư biết chăm nó.",
+      "reward": {
+        "silver": 200,
+        "xp": 220,
+        "silk": 8,
+        "stone": 10
+      },
+      "unlocks": [
+        "irrigation"
+      ]
+    },
+    {
+      "id": "flower_keeper",
+      "title": "Phấn hoa cho mùa sau",
+      "category": "side",
+      "chapter": 3,
+      "giver": "moc_mien",
+      "turn_in": "moc_mien",
+      "requires": [
+        "first_harvest"
+      ],
+      "description": "Giao 4 phấn linh hoa từ ong ở Cốc Linh Hoa hoặc Mật Lâm. Đây là nguyên liệu sẽ tiêu hao.",
+      "objective": "Giao 4 phấn linh hoa từ ong ở Cốc Linh Hoa hoặc Mật Lâm",
+      "metric": "deliver",
+      "target": "b_flowers",
+      "goal": 4,
+      "destination": "moc_mien",
+      "offer": "Ta giữ hạt, cậu giữ đường. Mang ít phấn hoa về để vườn có mùa tiếp theo; ong trong vùng hoang vẫn giữ những cụm hoa mạnh nhất.",
+      "complete": "Số phấn này đủ cho một vụ gieo. Nhận hạt và thức ăn, đừng để chuồng trống quá lâu.",
+      "reward": {
+        "silver": 65,
+        "xp": 50,
+        "flower_seed": 3,
+        "fruit": 5
+      },
+      "delivery": {
+        "pollen": 4
+      }
+    },
+    {
+      "id": "beast_provision",
+      "title": "Da thú đổi tơ linh",
+      "category": "side",
+      "chapter": 3,
+      "giver": "linh_nha",
+      "turn_in": "linh_nha",
+      "requires": [
+        "living_valley"
+      ],
+      "description": "Giao 6 da thú từ Rừng Linh Thú. Đổi vật tư vùng hoang lấy tơ để hợp thành Cổ.",
+      "objective": "Giao 6 da thú từ Rừng Linh Thú",
+      "metric": "deliver",
+      "target": "b_beasts",
+      "goal": 6,
+      "destination": "linh_nha",
+      "offer": "Bờ mương cần vật liệu để giữ kín. Ta đổi tơ linh lấy da thú; phần thịt cậu giữ nuôi Cổ. Không tài nguyên nào tự xuất hiện mãi.",
+      "complete": "Đổi chác xong. Tơ này đủ cho một lần thử hợp Cổ; hãy xem công thức và Cổ phôi trước khi luyện.",
+      "reward": {
+        "silver": 75,
+        "xp": 70,
+        "silk": 5,
+        "meat": 5
+      },
+      "delivery": {
+        "hide": 6
+      }
+    }
+  ]
+}
